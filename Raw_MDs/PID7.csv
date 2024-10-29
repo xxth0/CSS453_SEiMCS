@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+7,Jared Freeman,40,Male,OPD,Seattle,Depression,Zoloft,None,2023-09-15,Paid,Blue Cross,None,Quarterly,Depressed mood,Normal,,None,None,Stable
