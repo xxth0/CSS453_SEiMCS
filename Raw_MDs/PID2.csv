@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2,John Reese,40,Male,IPD,San Francisco,Diabetes,Metformin,None,2023-09-12,Unpaid,Blue Cross,None,Biannual,High glucose,Normal,,2022-05-20,None,Improving
