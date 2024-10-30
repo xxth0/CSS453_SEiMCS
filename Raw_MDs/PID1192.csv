@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1192,Robert George,64,Female,OPD,Los Angeles,Diabetes,Metformin,Appendectomy,2023-04-13,Unpaid,UnitedHealthcare,Latex,Quarterly,Elevated,Normal,Normal,,Infection,Ongoing

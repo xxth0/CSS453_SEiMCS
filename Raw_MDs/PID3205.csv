@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3205,Bonnie Richard,65,Male,IPD,Los Angeles,Hypertension,Ibuprofen,None,2023-12-28,Unpaid,Humana,Latex,Annual,Low,Abnormality,,,Bleeding,Partial

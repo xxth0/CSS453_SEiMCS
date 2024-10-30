@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1004,Lori Johnston MD,34,Other,OPD,Houston,Hypertension,Lisinopril,Thyroidectomy,2022-12-31,Paid,Blue Cross,Iodine,Annual,Elevated,Normal,Lesion detected,,None,Partial

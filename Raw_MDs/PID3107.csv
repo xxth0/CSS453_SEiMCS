@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3107,Jacob Long,47,Male,IPD,Houston,Asthma,Ibuprofen,Gallbladder removal,2023-05-17,Pending,Aetna,Iodine,Biannual,Low,Normal,,2021-02-05,Infection,Ongoing

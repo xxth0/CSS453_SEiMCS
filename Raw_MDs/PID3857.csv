@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3857,David Avila,42,Female,OPD,Los Angeles,Arthritis,Lisinopril,None,2023-10-24,Pending,Cigna,None,Quarterly,Low,Fracture,Normal,,Delayed recovery,Ongoing

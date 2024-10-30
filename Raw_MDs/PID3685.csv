@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3685,John Mendez,63,Other,IPD,New York,Arthritis,Ibuprofen,Thyroidectomy,2023-06-01,Unpaid,Aetna,Peanuts,Quarterly,Normal,Normal,Inconclusive,,None,Ongoing

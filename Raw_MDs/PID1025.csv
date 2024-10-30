@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1025,Jerry James,67,Other,IPD,New York,Thyroid disorder,Albuterol,None,2023-10-14,Pending,UnitedHealthcare,Penicillin,Biannual,Normal,Abnormality,,2022-01-18,Delayed recovery,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4125,Kathy Russell,67,Other,OPD,Phoenix,Thyroid disorder,Ibuprofen,Thyroidectomy,2024-01-03,Unpaid,UnitedHealthcare,Latex,Annual,Low,Abnormality,,,Delayed recovery,Full

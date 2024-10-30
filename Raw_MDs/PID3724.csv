@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3724,Dylan Johnson MD,21,Other,OPD,Houston,Hypertension,Ibuprofen,Thyroidectomy,2023-10-06,Paid,Humana,Penicillin,Quarterly,Normal,Abnormality,,,Infection,Ongoing

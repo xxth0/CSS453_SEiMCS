@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1430,Heather Garcia,21,Other,IPD,New York,Hypertension,Ibuprofen,None,2024-04-28,Pending,Humana,Latex,Biannual,Low,Abnormality,,2021-05-30,Bleeding,Partial

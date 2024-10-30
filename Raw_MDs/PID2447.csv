@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2447,Caitlin Meyer,29,Other,IPD,Phoenix,Arthritis,Ibuprofen,Appendectomy,2023-08-29,Pending,Aetna,None,Biannual,Low,Fracture,Lesion detected,,Infection,Ongoing

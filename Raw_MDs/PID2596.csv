@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2596,Jennifer Ramirez,68,Female,OPD,New York,Thyroid disorder,Ibuprofen,None,2022-11-03,Unpaid,Blue Cross,None,Quarterly,Elevated,Fracture,Normal,,Bleeding,Partial

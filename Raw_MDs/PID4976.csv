@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4976,Peter Miller,62,Female,IPD,New York,Asthma,Ibuprofen,Gallbladder removal,2023-05-12,Unpaid,Humana,None,Annual,Normal,Abnormality,,2020-06-12,Delayed recovery,Ongoing

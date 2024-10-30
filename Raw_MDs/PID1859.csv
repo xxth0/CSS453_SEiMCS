@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1859,Mary Bender,24,Female,IPD,Chicago,Diabetes,Levothyroxine,None,2024-03-17,Unpaid,Cigna,Peanuts,Annual,Elevated,Normal,,2019-12-03,None,Ongoing

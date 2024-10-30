@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4868,Ronald Cox,61,Male,OPD,Los Angeles,Asthma,Ibuprofen,Thyroidectomy,2024-01-10,Unpaid,Cigna,Peanuts,Annual,Normal,Fracture,,2020-07-21,None,Partial

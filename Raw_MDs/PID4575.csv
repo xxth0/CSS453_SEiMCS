@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4575,Thomas Powell,39,Other,OPD,Los Angeles,Arthritis,Ibuprofen,Gallbladder removal,2023-09-03,Paid,Aetna,Latex,Quarterly,Elevated,Fracture,,2019-09-05,Bleeding,Ongoing

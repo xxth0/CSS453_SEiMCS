@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4544,Aaron Sanchez,36,Other,OPD,Houston,Asthma,Ibuprofen,Appendectomy,2024-08-30,Paid,Humana,Penicillin,Annual,Low,Normal,,,Bleeding,Full

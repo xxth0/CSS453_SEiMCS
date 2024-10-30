@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3600,Michael Woods,50,Male,IPD,Houston,Diabetes,Lisinopril,Thyroidectomy,2023-05-07,Pending,Humana,Iodine,Quarterly,Normal,Abnormality,,,Infection,Full

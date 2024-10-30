@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2589,Austin Davis,50,Male,OPD,Houston,Thyroid disorder,Ibuprofen,Gallbladder removal,2023-02-08,Unpaid,Humana,Penicillin,Quarterly,Elevated,Fracture,,,Delayed recovery,Full

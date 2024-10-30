@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4457,Stephanie Mitchell,77,Female,OPD,Phoenix,Thyroid disorder,Ibuprofen,None,2023-09-10,Pending,Blue Cross,None,Biannual,Normal,Fracture,Normal,2016-04-11,Infection,Ongoing

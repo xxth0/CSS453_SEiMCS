@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3894,Eric Jones,59,Other,IPD,New York,Diabetes,Levothyroxine,Appendectomy,2022-12-09,Paid,Aetna,None,Biannual,Low,Fracture,,,Delayed recovery,Partial

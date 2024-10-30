@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3648,Joel Patrick,52,Female,IPD,Phoenix,Diabetes,Ibuprofen,None,2023-04-18,Paid,Humana,Penicillin,Annual,Elevated,Normal,,2021-12-16,Delayed recovery,Partial

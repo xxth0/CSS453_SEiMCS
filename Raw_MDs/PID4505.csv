@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4505,Brian Hines,32,Other,OPD,Chicago,Diabetes,Ibuprofen,Thyroidectomy,2024-05-26,Pending,Cigna,Iodine,Quarterly,Normal,Abnormality,Inconclusive,2022-09-18,Delayed recovery,Ongoing

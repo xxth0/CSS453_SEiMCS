@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4357,Joseph Novak,27,Male,IPD,Los Angeles,Asthma,Ibuprofen,None,2023-03-11,Pending,UnitedHealthcare,Peanuts,Biannual,Normal,Normal,Lesion detected,,Infection,Full

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4127,Cassandra Moore,74,Female,OPD,Chicago,Hypertension,Ibuprofen,Appendectomy,2024-08-22,Pending,UnitedHealthcare,None,Annual,Elevated,Normal,Inconclusive,2016-08-24,None,Full

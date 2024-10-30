@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3004,Matthew King,22,Female,IPD,Houston,Diabetes,Ibuprofen,Thyroidectomy,2024-04-09,Unpaid,UnitedHealthcare,None,Biannual,Low,Fracture,,2019-09-07,Bleeding,Full

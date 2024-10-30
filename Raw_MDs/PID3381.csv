@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3381,Adam Turner,38,Male,OPD,Houston,Diabetes,Ibuprofen,None,2023-09-30,Unpaid,Cigna,Iodine,Biannual,Low,Fracture,Normal,2020-05-07,None,Partial

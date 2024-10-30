@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3101,Amber Henderson,61,Male,OPD,Los Angeles,Thyroid disorder,Metformin,Appendectomy,2024-06-30,Unpaid,Aetna,None,Quarterly,Elevated,Fracture,Inconclusive,,Delayed recovery,Full

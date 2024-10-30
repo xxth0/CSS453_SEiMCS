@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2101,Colin Anderson,72,Male,IPD,Chicago,Diabetes,Levothyroxine,Thyroidectomy,2023-04-09,Pending,Aetna,None,Quarterly,Elevated,Abnormality,Lesion detected,,Bleeding,Ongoing

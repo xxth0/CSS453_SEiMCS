@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1038,Peter Armstrong,27,Female,IPD,Houston,Hypertension,Lisinopril,None,2023-09-05,Pending,UnitedHealthcare,Iodine,Biannual,Elevated,Fracture,,,None,Partial

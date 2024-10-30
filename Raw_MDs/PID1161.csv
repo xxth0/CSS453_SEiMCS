@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1161,James Porter,55,Female,IPD,Chicago,Diabetes,Metformin,None,2024-02-23,Paid,Aetna,Latex,Annual,Normal,Fracture,Inconclusive,2015-03-17,None,Ongoing

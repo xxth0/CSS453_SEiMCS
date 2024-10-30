@@ -1,2 +1,2 @@
 Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
-8,Lisa Walker,26,Female,OPD,Denver,Anemia,Iron supplements,None,2023-09-01,Paid,Anthem,None,Annual,Low red blood count,Normal,Normal,None,None,Improving
+8,Karen Valencia MD,61,Other,IPD,New York,Hypertension,Metformin,Thyroidectomy,2023-10-07,Paid,Cigna,Penicillin,Quarterly,Elevated,Normal,Inconclusive,2022-01-23,Delayed recovery,Partial

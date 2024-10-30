@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1546,David Kelly,40,Female,OPD,Phoenix,Diabetes,Ibuprofen,Appendectomy,2023-10-19,Pending,Blue Cross,Peanuts,Annual,Elevated,Fracture,,,Delayed recovery,Ongoing

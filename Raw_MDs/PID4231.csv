@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4231,Patricia Ochoa,75,Male,IPD,New York,Diabetes,Metformin,Appendectomy,2024-10-09,Unpaid,Aetna,Penicillin,Annual,Low,Abnormality,,2020-06-08,Bleeding,Partial

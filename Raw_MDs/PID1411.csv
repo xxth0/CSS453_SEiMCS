@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1411,Harry Brown,76,Other,OPD,Phoenix,Arthritis,Levothyroxine,None,2023-01-28,Paid,Aetna,None,Annual,Normal,Normal,Normal,2023-10-15,Infection,Ongoing

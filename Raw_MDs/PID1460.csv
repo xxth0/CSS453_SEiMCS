@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1460,James Watson,34,Other,OPD,Los Angeles,Arthritis,Ibuprofen,Appendectomy,2023-11-25,Unpaid,Aetna,Latex,Biannual,Normal,Abnormality,,,Infection,Full

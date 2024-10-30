@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1021,Nathan Davis,23,Male,OPD,New York,Asthma,Ibuprofen,Appendectomy,2023-05-22,Pending,Humana,Penicillin,Biannual,Normal,Normal,Normal,2015-12-12,Infection,Partial

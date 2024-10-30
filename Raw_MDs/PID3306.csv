@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3306,John Thomas,61,Male,IPD,Los Angeles,Hypertension,Lisinopril,Appendectomy,2024-01-25,Pending,Cigna,Penicillin,Quarterly,Elevated,Fracture,Lesion detected,,None,Partial

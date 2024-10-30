@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4950,Beverly Dixon,70,Female,IPD,Los Angeles,Asthma,Ibuprofen,Thyroidectomy,2023-02-21,Unpaid,Aetna,Iodine,Biannual,Normal,Normal,,2017-01-04,None,Partial

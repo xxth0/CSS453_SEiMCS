@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4305,Justin Garcia,73,Male,IPD,New York,Asthma,Ibuprofen,Appendectomy,2024-06-18,Pending,Aetna,None,Quarterly,Low,Normal,,,Delayed recovery,Full

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3536,Randall Glenn,27,Female,OPD,Chicago,Thyroid disorder,Ibuprofen,None,2023-04-22,Pending,UnitedHealthcare,Iodine,Quarterly,Elevated,Normal,Inconclusive,2019-01-20,Delayed recovery,Full

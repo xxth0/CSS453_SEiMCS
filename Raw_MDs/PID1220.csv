@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1220,Steven Sanchez,23,Other,OPD,Los Angeles,Diabetes,Albuterol,None,2022-11-21,Pending,Humana,None,Annual,Normal,Fracture,,2020-06-22,Bleeding,Partial

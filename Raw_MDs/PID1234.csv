@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1234,Joanne Butler,44,Other,IPD,Phoenix,Diabetes,Albuterol,None,2023-05-14,Unpaid,Cigna,None,Annual,Low,Fracture,Lesion detected,2023-06-26,Bleeding,Partial

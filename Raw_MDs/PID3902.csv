@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3902,Robert Smith,69,Male,IPD,Los Angeles,Arthritis,Albuterol,Gallbladder removal,2023-11-15,Pending,UnitedHealthcare,Latex,Annual,Low,Fracture,,2019-09-05,None,Ongoing

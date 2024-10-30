@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1273,Paul Thompson,74,Female,IPD,Houston,Asthma,Albuterol,Thyroidectomy,2023-09-07,Unpaid,Cigna,None,Biannual,Normal,Fracture,,2014-10-30,Infection,Ongoing

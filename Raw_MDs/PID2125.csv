@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2125,Paige Davis,32,Other,OPD,New York,Arthritis,Ibuprofen,Thyroidectomy,2024-05-14,Pending,UnitedHealthcare,None,Quarterly,Normal,Normal,Lesion detected,,Delayed recovery,Partial

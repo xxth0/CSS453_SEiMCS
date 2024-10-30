@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4793,Jonathan Jones,51,Female,OPD,Houston,Diabetes,Metformin,Appendectomy,2022-11-13,Paid,Blue Cross,Iodine,Annual,Normal,Fracture,Inconclusive,2018-12-20,Infection,Ongoing

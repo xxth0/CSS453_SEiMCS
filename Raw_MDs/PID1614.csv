@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1614,Francisco Owens,67,Male,IPD,New York,Asthma,Metformin,None,2022-11-09,Unpaid,Blue Cross,None,Annual,Elevated,Normal,,2020-03-11,Infection,Full

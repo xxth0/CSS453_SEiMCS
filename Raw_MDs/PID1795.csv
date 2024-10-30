@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1795,Tom Lopez,37,Male,OPD,New York,Hypertension,Levothyroxine,Thyroidectomy,2024-01-01,Unpaid,Humana,Peanuts,Annual,Elevated,Normal,,,None,Full

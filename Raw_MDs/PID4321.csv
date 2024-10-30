@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4321,Jennifer Hughes,40,Male,OPD,Chicago,Thyroid disorder,Metformin,Thyroidectomy,2024-02-23,Paid,Aetna,Latex,Biannual,Elevated,Normal,,,None,Full

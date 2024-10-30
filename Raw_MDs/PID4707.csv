@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4707,Randall Sheppard,34,Female,OPD,Los Angeles,Hypertension,Ibuprofen,Appendectomy,2024-04-05,Paid,Aetna,None,Annual,Normal,Normal,,2021-04-13,Delayed recovery,Full

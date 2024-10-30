@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2254,Mark Wheeler,35,Male,OPD,Los Angeles,Asthma,Lisinopril,None,2023-07-15,Pending,Aetna,None,Biannual,Elevated,Normal,,2023-04-21,Delayed recovery,Partial

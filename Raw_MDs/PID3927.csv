@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3927,Christopher Vargas,34,Female,IPD,New York,Thyroid disorder,Ibuprofen,Gallbladder removal,2023-01-05,Paid,Cigna,Latex,Quarterly,Elevated,Normal,,2016-11-18,Bleeding,Ongoing

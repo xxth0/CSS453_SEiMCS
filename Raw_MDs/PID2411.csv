@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2411,Kevin Wiley,73,Female,IPD,Houston,Asthma,Ibuprofen,Thyroidectomy,2023-06-04,Pending,Cigna,Latex,Quarterly,Elevated,Abnormality,Normal,,Infection,Ongoing

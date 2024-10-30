@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2385,Steven Collins,44,Female,IPD,New York,Hypertension,Ibuprofen,None,2024-06-10,Unpaid,Blue Cross,Latex,Annual,Low,Fracture,,2019-01-16,Infection,Ongoing

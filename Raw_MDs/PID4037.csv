@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4037,John Smith,44,Male,IPD,Houston,Diabetes,Lisinopril,Thyroidectomy,2023-10-26,Paid,Aetna,Latex,Quarterly,Normal,Normal,,2020-04-26,Infection,Partial

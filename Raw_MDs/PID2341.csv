@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2341,Brian Nguyen,20,Male,OPD,New York,Thyroid disorder,Lisinopril,Thyroidectomy,2022-12-17,Paid,UnitedHealthcare,Latex,Annual,Low,Abnormality,,,None,Ongoing

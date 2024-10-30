@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1001,Kenneth Gaines,55,Male,OPD,Phoenix,Hypertension,Metformin,Thyroidectomy,2023-06-25,Paid,Humana,Iodine,Annual,Low,Fracture,,,Bleeding,Ongoing

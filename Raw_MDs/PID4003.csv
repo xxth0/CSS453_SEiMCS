@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4003,Lauren Benson,73,Female,IPD,New York,Asthma,Ibuprofen,None,2023-09-05,Paid,Blue Cross,Penicillin,Biannual,Low,Abnormality,,2017-05-29,Infection,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2191,Jim Johnson,63,Other,IPD,Houston,Asthma,Metformin,None,2023-08-14,Paid,Cigna,Latex,Annual,Normal,Normal,Inconclusive,2015-12-25,Infection,Full

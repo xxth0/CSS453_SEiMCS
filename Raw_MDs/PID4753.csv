@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4753,Justin Brooks,68,Female,OPD,Phoenix,Diabetes,Ibuprofen,Gallbladder removal,2024-05-19,Pending,UnitedHealthcare,None,Biannual,Elevated,Fracture,,,Delayed recovery,Partial

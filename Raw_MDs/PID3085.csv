@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3085,Larry Smith,22,Female,OPD,New York,Diabetes,Ibuprofen,None,2022-11-15,Paid,Blue Cross,Peanuts,Annual,Elevated,Fracture,,,Infection,Partial

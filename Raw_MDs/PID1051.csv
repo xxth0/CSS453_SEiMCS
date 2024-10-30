@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1051,Marcus Bird,28,Other,IPD,Chicago,Asthma,Metformin,Appendectomy,2022-11-25,Paid,Humana,Latex,Annual,Normal,Normal,Normal,2023-09-27,None,Partial
