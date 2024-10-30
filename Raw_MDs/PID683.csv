@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+683,Donald Hansen,66,Male,OPD,Chicago,Asthma,Ibuprofen,Appendectomy,2024-07-30,Unpaid,Cigna,None,Quarterly,Elevated,Fracture,Lesion detected,,Infection,Full

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+461,Timothy Simpson,49,Female,OPD,Chicago,Asthma,Levothyroxine,Thyroidectomy,2024-10-06,Paid,UnitedHealthcare,None,Quarterly,Low,Fracture,Lesion detected,,Infection,Ongoing

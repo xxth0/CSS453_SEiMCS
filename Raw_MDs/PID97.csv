@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+97,Adrian Valencia,57,Other,IPD,Los Angeles,Thyroid disorder,Ibuprofen,None,2022-11-10,Pending,Humana,Latex,Quarterly,Normal,Abnormality,,2019-05-26,Bleeding,Ongoing

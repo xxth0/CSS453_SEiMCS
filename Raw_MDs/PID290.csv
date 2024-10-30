@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+290,Jason Holmes,49,Male,OPD,Phoenix,Diabetes,Ibuprofen,Thyroidectomy,2023-04-01,Pending,UnitedHealthcare,Iodine,Biannual,Low,Normal,,,Delayed recovery,Ongoing

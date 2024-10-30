@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+781,Ian Arellano,60,Other,OPD,Phoenix,Thyroid disorder,Ibuprofen,None,2023-01-13,Pending,Blue Cross,Penicillin,Biannual,Elevated,Normal,,2017-03-08,Infection,Ongoing

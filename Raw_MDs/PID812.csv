@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+812,Joseph Moon,78,Female,OPD,Chicago,Thyroid disorder,Metformin,None,2023-01-01,Pending,Humana,Latex,Annual,Low,Abnormality,Lesion detected,,Infection,Ongoing

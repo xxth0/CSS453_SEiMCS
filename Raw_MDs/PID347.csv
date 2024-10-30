@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+347,Jeffrey Patterson,66,Female,OPD,Los Angeles,Thyroid disorder,Albuterol,Thyroidectomy,2023-03-31,Pending,Aetna,None,Quarterly,Normal,Abnormality,Lesion detected,,Bleeding,Ongoing

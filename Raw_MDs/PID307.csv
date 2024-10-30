@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+307,Marie Khan,71,Female,OPD,Chicago,Diabetes,Levothyroxine,Thyroidectomy,2024-08-22,Paid,Cigna,None,Annual,Elevated,Fracture,,2018-12-08,Delayed recovery,Ongoing

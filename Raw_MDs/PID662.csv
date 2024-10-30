@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+662,Anna Chang,79,Male,OPD,Los Angeles,Diabetes,Lisinopril,Gallbladder removal,2024-05-30,Pending,Aetna,None,Annual,Elevated,Fracture,Lesion detected,,Delayed recovery,Ongoing

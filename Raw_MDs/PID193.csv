@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+193,Kevin Molina,64,Other,OPD,Los Angeles,Thyroid disorder,Ibuprofen,Appendectomy,2023-04-15,Pending,Cigna,Latex,Biannual,Low,Abnormality,,2022-12-07,Bleeding,Ongoing

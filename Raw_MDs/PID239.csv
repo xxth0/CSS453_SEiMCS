@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+239,Jonathan Park,40,Male,OPD,New York,Diabetes,Ibuprofen,Thyroidectomy,2022-12-28,Pending,UnitedHealthcare,Iodine,Biannual,Normal,Abnormality,,2020-01-13,Bleeding,Full

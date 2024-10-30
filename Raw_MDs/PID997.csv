@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+997,Joel Perez,25,Female,OPD,Chicago,Thyroid disorder,Ibuprofen,Gallbladder removal,2024-06-27,Pending,Blue Cross,Penicillin,Quarterly,Low,Normal,Inconclusive,,Infection,Partial

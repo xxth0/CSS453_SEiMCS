@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+250,Harold Henson,42,Male,IPD,Phoenix,Thyroid disorder,Metformin,Appendectomy,2023-03-16,Unpaid,Humana,None,Biannual,Elevated,Fracture,,,Delayed recovery,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+367,Jeanette Smith,68,Other,OPD,Houston,Thyroid disorder,Ibuprofen,Appendectomy,2023-04-15,Paid,Aetna,Penicillin,Biannual,Elevated,Normal,,,None,Full

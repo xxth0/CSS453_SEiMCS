@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+818,Kimberly Smith,53,Female,IPD,Phoenix,Arthritis,Ibuprofen,Thyroidectomy,2023-01-25,Unpaid,UnitedHealthcare,Iodine,Quarterly,Normal,Normal,,,Infection,Partial

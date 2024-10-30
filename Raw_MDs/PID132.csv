@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+132,James Rangel,78,Other,IPD,New York,Hypertension,Lisinopril,None,2023-01-09,Pending,Cigna,None,Annual,Low,Abnormality,Inconclusive,2017-07-17,Infection,Partial

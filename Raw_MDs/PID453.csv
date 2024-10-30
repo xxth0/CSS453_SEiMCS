@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+453,Amy Thompson,53,Female,IPD,Houston,Arthritis,Albuterol,Thyroidectomy,2023-12-03,Unpaid,Humana,Latex,Annual,Normal,Normal,Lesion detected,,Delayed recovery,Ongoing

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+342,Barry Valenzuela,67,Other,IPD,Los Angeles,Asthma,Metformin,Thyroidectomy,2024-06-02,Unpaid,Aetna,None,Biannual,Normal,Fracture,Lesion detected,,Bleeding,Partial

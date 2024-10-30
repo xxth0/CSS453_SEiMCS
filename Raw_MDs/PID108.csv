@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+108,Ricky Ray,80,Other,IPD,Chicago,Asthma,Metformin,None,2023-01-27,Pending,Cigna,Latex,Quarterly,Normal,Fracture,,,Delayed recovery,Partial

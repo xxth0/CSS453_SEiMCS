@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+283,Tonya Sherman,78,Male,OPD,Los Angeles,Diabetes,Ibuprofen,Thyroidectomy,2024-07-04,Pending,Aetna,Penicillin,Annual,Normal,Normal,Normal,,Infection,Ongoing

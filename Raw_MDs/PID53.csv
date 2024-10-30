@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+53,Gregory Martin,70,Other,OPD,Chicago,Hypertension,Lisinopril,Thyroidectomy,2024-02-09,Pending,Cigna,Latex,Quarterly,Normal,Abnormality,,,Infection,Ongoing

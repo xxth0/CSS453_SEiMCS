@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+381,Brian Santana,26,Female,OPD,Phoenix,Hypertension,Ibuprofen,Appendectomy,2024-09-20,Pending,Cigna,Latex,Quarterly,Elevated,Normal,Inconclusive,2020-08-15,Bleeding,Ongoing

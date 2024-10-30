@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+744,Adam Watson,42,Other,IPD,Houston,Asthma,Levothyroxine,Appendectomy,2023-09-01,Pending,Aetna,Penicillin,Biannual,Low,Abnormality,Normal,,Bleeding,Partial

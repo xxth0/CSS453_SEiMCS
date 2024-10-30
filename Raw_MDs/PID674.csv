@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+674,Jennifer Mejia,78,Male,OPD,Los Angeles,Thyroid disorder,Ibuprofen,None,2024-06-28,Unpaid,Humana,Latex,Annual,Elevated,Fracture,Normal,2021-09-08,Infection,Full

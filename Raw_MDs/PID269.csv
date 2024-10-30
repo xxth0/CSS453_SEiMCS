@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+269,Johnny Johnson,78,Male,OPD,Houston,Thyroid disorder,Levothyroxine,None,2024-01-28,Unpaid,Cigna,Peanuts,Annual,Normal,Abnormality,Lesion detected,,Bleeding,Ongoing
