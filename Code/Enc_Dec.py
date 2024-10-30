@@ -59,8 +59,8 @@ aes_key = get_aes_key(user_key)
 input_file = 'path/to/your/input_file.dat'
 # Put the directory of the encrypted file here
 encrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\Enc_MDs\\0BB3B02B6FBB4BC9925C47267A44C5C3.dat'
-# Put the output path and the name of the file here
-decrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\decrypted_file.dat'
+# Put the output path and the name of the file here (we can use .CSV)
+decrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\decrypted_file.CSV'
 
 # Encrypt the file
 # encrypt_file(input_file, encrypted_file, aes_key)
