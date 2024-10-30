@@ -2,7 +2,7 @@ import os
 from pybloom_live import BloomFilter
 
 # Path to the Auxiliary folder
-auxiliary_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\Auxiliary"
+auxiliary_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\Auxiliary_Tree"
 
 # Initialize a dictionary to hold Bloom Filters for each file
 branch_filters = {}
