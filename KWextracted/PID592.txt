@@ -1,0 +1,8 @@
+PID: 592
+Name: Alicia Carter
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Diabetes
+

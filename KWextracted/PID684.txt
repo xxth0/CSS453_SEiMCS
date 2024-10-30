@@ -1,0 +1,8 @@
+PID: 684
+Name: Allen Craig
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Hypertension
+

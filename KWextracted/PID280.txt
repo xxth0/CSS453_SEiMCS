@@ -1,0 +1,8 @@
+PID: 280
+Name: Luis Mason
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Hypertension
+

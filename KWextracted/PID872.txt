@@ -1,0 +1,8 @@
+PID: 872
+Name: Ronald Aguirre
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

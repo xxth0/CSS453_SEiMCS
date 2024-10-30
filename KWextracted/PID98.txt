@@ -1,0 +1,8 @@
+PID: 98
+Name: Kathleen Garcia
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Arthritis
+

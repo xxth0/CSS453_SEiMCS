@@ -1,0 +1,8 @@
+PID: 827
+Name: Katelyn Rogers
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Asthma
+

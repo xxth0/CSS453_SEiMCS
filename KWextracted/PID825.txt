@@ -1,0 +1,8 @@
+PID: 825
+Name: Marie Gray
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Thyroid disorder
+

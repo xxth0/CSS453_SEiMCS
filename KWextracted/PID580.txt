@@ -1,0 +1,8 @@
+PID: 580
+Name: Jeffrey Bauer
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 119
+Name: Charles Lewis
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

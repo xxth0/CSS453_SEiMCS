@@ -1,0 +1,8 @@
+PID: 113
+Name: Carrie Ortiz
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Arthritis
+

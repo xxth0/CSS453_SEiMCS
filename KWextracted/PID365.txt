@@ -1,0 +1,8 @@
+PID: 365
+Name: Patrick Booker
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Arthritis
+

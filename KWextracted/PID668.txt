@@ -1,0 +1,8 @@
+PID: 668
+Name: Eric Hogan
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Houston
+Diagnosis: Asthma
+

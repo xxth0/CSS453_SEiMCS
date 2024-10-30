@@ -1,0 +1,8 @@
+PID: 597
+Name: Joseph Perez
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

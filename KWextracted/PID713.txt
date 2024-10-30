@@ -1,0 +1,8 @@
+PID: 713
+Name: Angelica Mason
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 57
+Name: Brian Thomas
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Arthritis
+

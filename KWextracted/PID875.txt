@@ -1,0 +1,8 @@
+PID: 875
+Name: Lee Olsen
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Asthma
+

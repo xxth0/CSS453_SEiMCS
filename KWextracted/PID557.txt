@@ -1,0 +1,8 @@
+PID: 557
+Name: Jason Lee
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

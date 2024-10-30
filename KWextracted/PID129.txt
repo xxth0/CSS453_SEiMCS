@@ -1,0 +1,8 @@
+PID: 129
+Name: Kristen Nguyen
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: New York
+Diagnosis: Asthma
+

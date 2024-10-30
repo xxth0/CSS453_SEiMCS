@@ -1,0 +1,8 @@
+PID: 903
+Name: Brandon Shea
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

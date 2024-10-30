@@ -1,0 +1,8 @@
+PID: 602
+Name: Helen Andrews
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

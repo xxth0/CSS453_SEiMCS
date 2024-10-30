@@ -1,0 +1,8 @@
+PID: 689
+Name: Joshua Johnson
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Hypertension
+

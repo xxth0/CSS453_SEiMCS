@@ -1,0 +1,8 @@
+PID: 732
+Name: Daniel Wilson
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Thyroid disorder
+

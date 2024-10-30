@@ -1,0 +1,8 @@
+PID: 357
+Name: Randall Martinez
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

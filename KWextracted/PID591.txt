@@ -1,0 +1,8 @@
+PID: 591
+Name: Cathy Pearson
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Hypertension
+

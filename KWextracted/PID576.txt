@@ -1,0 +1,8 @@
+PID: 576
+Name: Eric Williams
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

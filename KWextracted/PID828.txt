@@ -1,0 +1,8 @@
+PID: 828
+Name: Hannah Barnes
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Arthritis
+

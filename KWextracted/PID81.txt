@@ -1,0 +1,8 @@
+PID: 81
+Name: Brooke Fields
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 284
+Name: James Mcintyre
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Thyroid disorder
+

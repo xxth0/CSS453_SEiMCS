@@ -1,0 +1,8 @@
+PID: 376
+Name: Joshua Ruiz
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

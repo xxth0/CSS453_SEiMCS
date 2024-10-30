@@ -1,0 +1,8 @@
+PID: 170
+Name: Teresa Espinoza
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

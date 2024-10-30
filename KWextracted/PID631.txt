@@ -1,0 +1,8 @@
+PID: 631
+Name: Yolanda Barr
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

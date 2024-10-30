@@ -1,0 +1,8 @@
+PID: 600
+Name: Kyle Taylor
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Arthritis
+

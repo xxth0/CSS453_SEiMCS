@@ -1,0 +1,8 @@
+PID: 261
+Name: Victoria Gutierrez
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

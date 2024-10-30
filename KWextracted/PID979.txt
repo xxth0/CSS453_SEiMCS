@@ -1,0 +1,8 @@
+PID: 979
+Name: Johnny Miranda
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Houston
+Diagnosis: Arthritis
+

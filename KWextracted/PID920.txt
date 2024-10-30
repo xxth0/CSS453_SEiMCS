@@ -1,0 +1,8 @@
+PID: 920
+Name: Natasha Roman
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Thyroid disorder
+

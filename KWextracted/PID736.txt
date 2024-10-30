@@ -1,0 +1,8 @@
+PID: 736
+Name: Michael Mercado
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Arthritis
+

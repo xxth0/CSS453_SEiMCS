@@ -1,0 +1,8 @@
+PID: 674
+Name: Jennifer Mejia
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

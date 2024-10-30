@@ -1,0 +1,8 @@
+PID: 363
+Name: Tyrone Long
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Arthritis
+

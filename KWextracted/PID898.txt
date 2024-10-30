@@ -1,0 +1,8 @@
+PID: 898
+Name: Raymond Mcconnell
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

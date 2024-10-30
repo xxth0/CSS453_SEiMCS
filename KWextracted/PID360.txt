@@ -1,0 +1,8 @@
+PID: 360
+Name: Michael Whitehead
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Thyroid disorder
+

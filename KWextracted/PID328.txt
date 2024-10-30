@@ -1,0 +1,8 @@
+PID: 328
+Name: Cody Olson
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 950
+Name: David Perez
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 720
+Name: James Johnson
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Arthritis
+

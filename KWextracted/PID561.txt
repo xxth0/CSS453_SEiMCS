@@ -1,0 +1,8 @@
+PID: 561
+Name: Wesley Perez MD
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Thyroid disorder
+

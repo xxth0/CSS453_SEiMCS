@@ -1,0 +1,8 @@
+PID: 278
+Name: Mrs. Michele Barrera
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 326
+Name: Ashley Vega
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Diabetes
+

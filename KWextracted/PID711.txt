@@ -1,0 +1,8 @@
+PID: 711
+Name: Walter Sanchez
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Asthma
+

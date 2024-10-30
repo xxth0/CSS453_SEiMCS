@@ -1,0 +1,8 @@
+PID: 901
+Name: Victoria Moses
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 341
+Name: Mr. Peter Russell MD
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Diabetes
+

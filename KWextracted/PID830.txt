@@ -1,0 +1,8 @@
+PID: 830
+Name: Jason Macias
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Arthritis
+

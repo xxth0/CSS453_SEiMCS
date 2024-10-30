@@ -1,0 +1,8 @@
+PID: 310
+Name: Joseph Phelps
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Arthritis
+

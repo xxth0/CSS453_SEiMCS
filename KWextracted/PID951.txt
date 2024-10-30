@@ -1,0 +1,8 @@
+PID: 951
+Name: Kyle Wilson
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Thyroid disorder
+

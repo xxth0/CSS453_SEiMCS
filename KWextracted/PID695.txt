@@ -1,0 +1,8 @@
+PID: 695
+Name: Janet Garcia
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Thyroid disorder
+

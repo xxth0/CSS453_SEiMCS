@@ -1,0 +1,8 @@
+PID: 555
+Name: Gary Ross
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Asthma
+

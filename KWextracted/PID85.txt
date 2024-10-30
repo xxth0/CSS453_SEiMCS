@@ -1,0 +1,8 @@
+PID: 85
+Name: Jesus Green
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

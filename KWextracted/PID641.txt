@@ -1,0 +1,8 @@
+PID: 641
+Name: Luke Mullins
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Arthritis
+

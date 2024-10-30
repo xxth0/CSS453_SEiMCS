@@ -1,0 +1,8 @@
+PID: 855
+Name: Kari Bowers
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Hypertension
+

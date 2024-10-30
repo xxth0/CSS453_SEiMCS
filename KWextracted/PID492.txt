@@ -1,0 +1,8 @@
+PID: 492
+Name: Carlos Anderson
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Thyroid disorder
+

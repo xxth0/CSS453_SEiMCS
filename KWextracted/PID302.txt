@@ -1,0 +1,8 @@
+PID: 302
+Name: Christine Taylor
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Diabetes
+

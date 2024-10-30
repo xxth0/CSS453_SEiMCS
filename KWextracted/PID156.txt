@@ -1,0 +1,8 @@
+PID: 156
+Name: Nancy Terry
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

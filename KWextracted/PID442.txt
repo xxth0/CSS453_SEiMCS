@@ -1,0 +1,8 @@
+PID: 442
+Name: Laura Lewis
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Hypertension
+

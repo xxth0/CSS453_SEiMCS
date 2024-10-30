@@ -1,0 +1,8 @@
+PID: 738
+Name: John Delgado
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Diabetes
+

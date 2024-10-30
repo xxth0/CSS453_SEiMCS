@@ -1,0 +1,8 @@
+PID: 715
+Name: Terry Reese
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Diabetes
+

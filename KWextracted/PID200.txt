@@ -1,0 +1,8 @@
+PID: 200
+Name: Richard Russell
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Arthritis
+

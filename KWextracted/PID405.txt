@@ -1,0 +1,8 @@
+PID: 405
+Name: Julia Castillo
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Asthma
+

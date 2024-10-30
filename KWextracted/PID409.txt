@@ -1,0 +1,8 @@
+PID: 409
+Name: Stephanie Chen
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 752
+Name: Charles Moore
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Hypertension
+

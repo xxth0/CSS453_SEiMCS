@@ -1,0 +1,8 @@
+PID: 977
+Name: Michael Hatfield
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

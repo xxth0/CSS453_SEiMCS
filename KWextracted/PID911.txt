@@ -1,0 +1,8 @@
+PID: 911
+Name: Jeffery Ware
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Asthma
+

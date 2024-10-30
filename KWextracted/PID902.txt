@@ -1,0 +1,8 @@
+PID: 902
+Name: Eric Reeves
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

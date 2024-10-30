@@ -1,0 +1,8 @@
+PID: 781
+Name: Ian Arellano
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

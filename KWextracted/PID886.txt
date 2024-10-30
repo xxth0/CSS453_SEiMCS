@@ -1,0 +1,8 @@
+PID: 886
+Name: Anthony Ellis
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Arthritis
+

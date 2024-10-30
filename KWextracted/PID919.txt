@@ -1,0 +1,8 @@
+PID: 919
+Name: Gregory Taylor
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

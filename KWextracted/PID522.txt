@@ -1,0 +1,8 @@
+PID: 522
+Name: Steven Fuller
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 445
+Name: Kristopher Gonzalez
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Hypertension
+

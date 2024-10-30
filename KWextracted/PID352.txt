@@ -1,0 +1,8 @@
+PID: 352
+Name: Ariana Smith
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Hypertension
+

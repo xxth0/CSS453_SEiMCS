@@ -1,0 +1,8 @@
+PID: 976
+Name: Gabriel Robertson
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Thyroid disorder
+

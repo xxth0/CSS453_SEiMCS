@@ -1,0 +1,8 @@
+PID: 378
+Name: Erin Oconnor
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Diabetes
+

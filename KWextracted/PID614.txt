@@ -1,0 +1,8 @@
+PID: 614
+Name: Donald Reid
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 30
+Name: Stephanie Fox
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Asthma
+

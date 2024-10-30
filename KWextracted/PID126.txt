@@ -1,0 +1,8 @@
+PID: 126
+Name: Jay Lopez
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

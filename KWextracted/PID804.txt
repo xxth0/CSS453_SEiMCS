@@ -1,0 +1,8 @@
+PID: 804
+Name: Elizabeth Molina
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

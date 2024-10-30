@@ -1,0 +1,8 @@
+PID: 531
+Name: Sarah Warner
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

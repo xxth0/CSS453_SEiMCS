@@ -1,0 +1,8 @@
+PID: 995
+Name: Emily Pitts
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Arthritis
+

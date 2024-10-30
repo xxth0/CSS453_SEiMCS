@@ -1,0 +1,8 @@
+PID: 120
+Name: Dr. James Hunt
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

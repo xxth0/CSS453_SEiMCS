@@ -1,0 +1,8 @@
+PID: 174
+Name: Vanessa Thompson
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 354
+Name: Gary Hayes
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Arthritis
+

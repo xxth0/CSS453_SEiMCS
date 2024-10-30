@@ -1,0 +1,8 @@
+PID: 332
+Name: Emily Walker
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Asthma
+

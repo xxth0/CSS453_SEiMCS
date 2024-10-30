@@ -1,0 +1,8 @@
+PID: 975
+Name: Ricardo Burch
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

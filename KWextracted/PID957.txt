@@ -1,0 +1,8 @@
+PID: 957
+Name: Sandra Bean
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Hypertension
+

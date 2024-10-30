@@ -1,0 +1,8 @@
+PID: 90
+Name: Stephen Warren
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 719
+Name: Joshua Powell
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

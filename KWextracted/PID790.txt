@@ -1,0 +1,8 @@
+PID: 790
+Name: Scott Phillips
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Arthritis
+

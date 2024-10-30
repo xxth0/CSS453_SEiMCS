@@ -1,0 +1,8 @@
+PID: 3
+Name: Maria Gonzales
+Gender: Female
+Type: OPD
+Allergies: Pollen
+Region: New York
+Diagnosis: Asthma
+

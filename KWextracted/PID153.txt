@@ -1,0 +1,8 @@
+PID: 153
+Name: Kayla Nguyen
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

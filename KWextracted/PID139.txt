@@ -1,0 +1,8 @@
+PID: 139
+Name: Corey Wiley
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Hypertension
+

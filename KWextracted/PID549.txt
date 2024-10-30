@@ -1,0 +1,8 @@
+PID: 549
+Name: Charles Rocha
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Houston
+Diagnosis: Thyroid disorder
+

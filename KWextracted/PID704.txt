@@ -1,0 +1,8 @@
+PID: 704
+Name: Angelica Lopez
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Asthma
+

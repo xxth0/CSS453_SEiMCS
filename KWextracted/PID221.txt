@@ -1,0 +1,8 @@
+PID: 221
+Name: Terry Mann
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Arthritis
+

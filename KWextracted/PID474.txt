@@ -1,0 +1,8 @@
+PID: 474
+Name: Jeffrey Barrera
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

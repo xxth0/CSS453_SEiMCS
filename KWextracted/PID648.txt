@@ -1,0 +1,8 @@
+PID: 648
+Name: Stephen Ayers
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Thyroid disorder
+

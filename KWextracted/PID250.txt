@@ -1,0 +1,8 @@
+PID: 250
+Name: Harold Henson
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

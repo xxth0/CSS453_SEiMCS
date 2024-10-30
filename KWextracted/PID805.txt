@@ -1,0 +1,8 @@
+PID: 805
+Name: Derrick Mcgee MD
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Diabetes
+

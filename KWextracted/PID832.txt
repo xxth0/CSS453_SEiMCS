@@ -1,0 +1,8 @@
+PID: 832
+Name: Benjamin Reynolds
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 214
+Name: Crystal Page
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Arthritis
+

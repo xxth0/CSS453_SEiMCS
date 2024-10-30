@@ -1,0 +1,8 @@
+PID: 605
+Name: Kelsey Lloyd
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

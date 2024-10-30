@@ -1,0 +1,8 @@
+PID: 70
+Name: Kristina Collins
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Diabetes
+

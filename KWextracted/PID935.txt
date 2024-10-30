@@ -1,0 +1,8 @@
+PID: 935
+Name: Erin Kelley
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

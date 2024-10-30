@@ -1,0 +1,8 @@
+PID: 584
+Name: Lydia Powell
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

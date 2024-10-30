@@ -1,0 +1,8 @@
+PID: 744
+Name: Adam Watson
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Asthma
+

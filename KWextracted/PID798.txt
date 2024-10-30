@@ -1,0 +1,8 @@
+PID: 798
+Name: Ms. Kristy Turner
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Arthritis
+

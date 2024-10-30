@@ -1,0 +1,8 @@
+PID: 867
+Name: Connie Hernandez
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: New York
+Diagnosis: Asthma
+

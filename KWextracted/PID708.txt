@@ -1,0 +1,8 @@
+PID: 708
+Name: Brittany Guerrero
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Asthma
+

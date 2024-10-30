@@ -1,0 +1,8 @@
+PID: 909
+Name: Denise Rivera
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 949
+Name: Bradley Rush
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Arthritis
+

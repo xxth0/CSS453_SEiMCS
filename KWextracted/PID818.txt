@@ -1,0 +1,8 @@
+PID: 818
+Name: Kimberly Smith
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 566
+Name: Roberto Harris
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Arthritis
+

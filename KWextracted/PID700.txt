@@ -1,0 +1,8 @@
+PID: 700
+Name: Christopher Sanchez
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Arthritis
+

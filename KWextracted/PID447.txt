@@ -1,0 +1,8 @@
+PID: 447
+Name: Charles Wells
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 205
+Name: Kyle Smith
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Hypertension
+

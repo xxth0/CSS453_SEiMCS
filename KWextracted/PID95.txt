@@ -1,0 +1,8 @@
+PID: 95
+Name: Matthew Robles
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Diabetes
+

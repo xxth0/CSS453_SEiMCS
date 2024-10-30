@@ -1,0 +1,8 @@
+PID: 183
+Name: Abigail Mcdonald
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

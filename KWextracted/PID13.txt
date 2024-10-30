@@ -1,0 +1,8 @@
+PID: 13
+Name: John Morgan
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Diabetes
+

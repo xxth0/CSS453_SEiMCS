@@ -1,0 +1,8 @@
+PID: 908
+Name: James Martin
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Asthma
+

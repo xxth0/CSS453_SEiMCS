@@ -1,0 +1,8 @@
+PID: 296
+Name: Michael Arellano
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Asthma
+

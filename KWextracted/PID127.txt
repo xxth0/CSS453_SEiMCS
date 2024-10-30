@@ -1,0 +1,8 @@
+PID: 127
+Name: George Murray MD
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 658
+Name: Joseph Delacruz
+Gender: Female
+Type: IPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 425
+Name: Gary Miller
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

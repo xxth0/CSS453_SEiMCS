@@ -1,0 +1,8 @@
+PID: 299
+Name: Marco Phillips
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 991
+Name: Robert Logan
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Diabetes
+

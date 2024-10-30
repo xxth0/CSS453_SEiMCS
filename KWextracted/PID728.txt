@@ -1,0 +1,8 @@
+PID: 728
+Name: Joseph Rodgers
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Thyroid disorder
+

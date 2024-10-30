@@ -1,0 +1,8 @@
+PID: 502
+Name: Sergio Hudson
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Asthma
+

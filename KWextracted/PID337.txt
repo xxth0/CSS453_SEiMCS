@@ -1,0 +1,8 @@
+PID: 337
+Name: Marie Durham
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Asthma
+

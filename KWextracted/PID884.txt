@@ -1,0 +1,8 @@
+PID: 884
+Name: Nicole Powers
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

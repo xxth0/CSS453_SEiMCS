@@ -1,0 +1,8 @@
+PID: 725
+Name: Mary Freeman
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Asthma
+

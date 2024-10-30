@@ -1,0 +1,8 @@
+PID: 681
+Name: Eugene Fox
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Arthritis
+

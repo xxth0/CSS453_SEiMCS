@@ -1,0 +1,8 @@
+PID: 386
+Name: Elizabeth Johnson
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

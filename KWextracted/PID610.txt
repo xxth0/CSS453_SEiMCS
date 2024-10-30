@@ -1,0 +1,8 @@
+PID: 610
+Name: Julie Peterson
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

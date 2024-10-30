@@ -1,0 +1,8 @@
+PID: 702
+Name: Gary Freeman
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Hypertension
+

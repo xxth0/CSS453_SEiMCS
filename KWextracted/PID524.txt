@@ -1,0 +1,8 @@
+PID: 524
+Name: Kurt Torres
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Arthritis
+

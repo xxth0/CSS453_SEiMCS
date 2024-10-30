@@ -1,0 +1,8 @@
+PID: 196
+Name: Gregory Carr
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Asthma
+

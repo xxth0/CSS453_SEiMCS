@@ -1,0 +1,8 @@
+PID: 692
+Name: Aaron Willis
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Arthritis
+

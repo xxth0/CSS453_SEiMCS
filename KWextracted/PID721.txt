@@ -1,0 +1,8 @@
+PID: 721
+Name: Leslie Smith
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Arthritis
+

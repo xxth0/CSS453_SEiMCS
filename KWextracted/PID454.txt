@@ -1,0 +1,8 @@
+PID: 454
+Name: Zachary Wright
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Thyroid disorder
+

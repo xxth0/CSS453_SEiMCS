@@ -1,0 +1,8 @@
+PID: 15
+Name: Bridget Wilson
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Diabetes
+

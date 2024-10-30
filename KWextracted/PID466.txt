@@ -1,0 +1,8 @@
+PID: 466
+Name: Lance Kelly
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

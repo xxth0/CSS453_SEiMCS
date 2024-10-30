@@ -1,0 +1,8 @@
+PID: 871
+Name: Mark Lucas
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

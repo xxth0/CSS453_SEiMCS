@@ -1,0 +1,8 @@
+PID: 992
+Name: Ruth Navarro
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

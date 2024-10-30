@@ -1,0 +1,8 @@
+PID: 810
+Name: Lauren Sandoval
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

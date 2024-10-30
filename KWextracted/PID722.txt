@@ -1,0 +1,8 @@
+PID: 722
+Name: Tyler Chapman
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Hypertension
+

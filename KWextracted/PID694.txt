@@ -1,0 +1,8 @@
+PID: 694
+Name: John Hall
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Arthritis
+

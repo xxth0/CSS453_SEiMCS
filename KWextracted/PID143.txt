@@ -1,0 +1,8 @@
+PID: 143
+Name: Kyle Hicks
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Hypertension
+

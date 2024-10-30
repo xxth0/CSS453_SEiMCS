@@ -1,0 +1,8 @@
+PID: 241
+Name: Nicole Lucas
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Arthritis
+

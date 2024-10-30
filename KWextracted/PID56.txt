@@ -1,0 +1,8 @@
+PID: 56
+Name: Christine Walter
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

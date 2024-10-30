@@ -1,0 +1,8 @@
+PID: 312
+Name: Jennifer Hale
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Diabetes
+

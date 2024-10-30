@@ -1,0 +1,8 @@
+PID: 572
+Name: James Flores
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

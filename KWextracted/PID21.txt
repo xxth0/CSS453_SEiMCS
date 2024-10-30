@@ -1,0 +1,8 @@
+PID: 21
+Name: Amanda Price
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Arthritis
+

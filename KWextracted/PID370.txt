@@ -1,0 +1,8 @@
+PID: 370
+Name: Michael Kelley
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Hypertension
+

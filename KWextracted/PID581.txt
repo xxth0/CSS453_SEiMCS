@@ -1,0 +1,8 @@
+PID: 581
+Name: Brandy Joyce
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 645
+Name: Misty Smith
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Arthritis
+

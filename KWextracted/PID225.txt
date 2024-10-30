@@ -1,0 +1,8 @@
+PID: 225
+Name: Kristi Park
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Diabetes
+

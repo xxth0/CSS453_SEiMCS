@@ -1,0 +1,8 @@
+PID: 885
+Name: Toni Armstrong
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 36
+Name: Christy Salazar
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Arthritis
+

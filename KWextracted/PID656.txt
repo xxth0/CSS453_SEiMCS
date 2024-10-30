@@ -1,0 +1,8 @@
+PID: 656
+Name: Patricia Myers
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

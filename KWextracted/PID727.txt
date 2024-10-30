@@ -1,0 +1,8 @@
+PID: 727
+Name: Michael Gonzalez
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 654
+Name: Courtney Davis
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Arthritis
+

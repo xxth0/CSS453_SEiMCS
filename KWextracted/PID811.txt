@@ -1,0 +1,8 @@
+PID: 811
+Name: Joan Mckee
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Asthma
+

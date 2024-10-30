@@ -1,0 +1,8 @@
+PID: 662
+Name: Anna Chang
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

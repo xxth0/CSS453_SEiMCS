@@ -1,0 +1,8 @@
+PID: 539
+Name: Nicole Coleman
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Asthma
+

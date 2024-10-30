@@ -1,0 +1,8 @@
+PID: 58
+Name: William Marshall
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Asthma
+

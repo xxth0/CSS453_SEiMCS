@@ -1,0 +1,8 @@
+PID: 345
+Name: Sean Frazier
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Thyroid disorder
+

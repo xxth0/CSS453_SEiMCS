@@ -1,0 +1,8 @@
+PID: 677
+Name: Alicia Nixon
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Diabetes
+

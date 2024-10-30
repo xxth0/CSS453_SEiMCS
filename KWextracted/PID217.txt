@@ -1,0 +1,8 @@
+PID: 217
+Name: Deborah Olson
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Hypertension
+

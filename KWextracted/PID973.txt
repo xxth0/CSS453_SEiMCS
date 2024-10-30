@@ -1,0 +1,8 @@
+PID: 973
+Name: Jeremy Yang
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Asthma
+

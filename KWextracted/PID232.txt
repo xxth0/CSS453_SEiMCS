@@ -1,0 +1,8 @@
+PID: 232
+Name: Olivia Mendez
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Asthma
+

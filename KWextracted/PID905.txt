@@ -1,0 +1,8 @@
+PID: 905
+Name: John Martin
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Asthma
+

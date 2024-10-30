@@ -1,0 +1,8 @@
+PID: 209
+Name: Deanna Lowery
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

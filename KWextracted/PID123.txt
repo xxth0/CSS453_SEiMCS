@@ -1,0 +1,8 @@
+PID: 123
+Name: Sherri Adams
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Diabetes
+

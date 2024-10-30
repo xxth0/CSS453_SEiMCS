@@ -1,0 +1,8 @@
+PID: 842
+Name: Erin Khan
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Arthritis
+

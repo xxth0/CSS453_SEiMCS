@@ -1,0 +1,8 @@
+PID: 948
+Name: Angela Martinez
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

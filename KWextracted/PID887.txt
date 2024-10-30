@@ -1,0 +1,8 @@
+PID: 887
+Name: Justin Francis
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

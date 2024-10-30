@@ -1,0 +1,8 @@
+PID: 458
+Name: Julie Richardson
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Arthritis
+

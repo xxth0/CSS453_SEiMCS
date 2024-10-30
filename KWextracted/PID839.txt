@@ -1,0 +1,8 @@
+PID: 839
+Name: Tyler Andrade
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Hypertension
+

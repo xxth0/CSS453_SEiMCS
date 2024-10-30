@@ -1,0 +1,8 @@
+PID: 657
+Name: Amanda Hernandez
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Thyroid disorder
+

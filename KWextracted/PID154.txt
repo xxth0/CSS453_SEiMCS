@@ -1,0 +1,8 @@
+PID: 154
+Name: Carolyn Lee
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Thyroid disorder
+

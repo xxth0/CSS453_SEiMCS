@@ -1,0 +1,8 @@
+PID: 534
+Name: Jennifer Cooper
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 108
+Name: Ricky Ray
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 287
+Name: Jessica Gonzalez
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

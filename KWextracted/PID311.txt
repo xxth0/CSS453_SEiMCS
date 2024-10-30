@@ -1,0 +1,8 @@
+PID: 311
+Name: Diamond Cummings
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

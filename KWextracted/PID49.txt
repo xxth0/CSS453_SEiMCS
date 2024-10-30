@@ -1,0 +1,8 @@
+PID: 49
+Name: Russell Lopez
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 383
+Name: Lisa Sanchez
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Thyroid disorder
+

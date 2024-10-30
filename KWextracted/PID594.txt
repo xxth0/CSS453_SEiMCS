@@ -1,0 +1,8 @@
+PID: 594
+Name: Sabrina Martin
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Diabetes
+

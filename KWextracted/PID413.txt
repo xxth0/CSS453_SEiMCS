@@ -1,0 +1,8 @@
+PID: 413
+Name: Jennifer Poole
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Asthma
+

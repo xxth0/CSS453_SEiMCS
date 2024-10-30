@@ -1,0 +1,8 @@
+PID: 697
+Name: Kathleen Lucas
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

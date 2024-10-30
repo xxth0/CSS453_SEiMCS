@@ -1,0 +1,8 @@
+PID: 897
+Name: Matthew Freeman
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 737
+Name: Kristopher Ewing
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Hypertension
+

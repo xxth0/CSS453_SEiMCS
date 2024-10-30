@@ -1,0 +1,8 @@
+PID: 997
+Name: Joel Perez
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Thyroid disorder
+

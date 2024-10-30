@@ -1,0 +1,8 @@
+PID: 19
+Name: Tracey Chang
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Houston
+Diagnosis: Hypertension
+

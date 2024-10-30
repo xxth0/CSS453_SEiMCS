@@ -1,0 +1,8 @@
+PID: 582
+Name: Jacob Gates
+Gender: Other
+Type: OPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 60
+Name: Ann King
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Arthritis
+

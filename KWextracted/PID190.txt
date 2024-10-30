@@ -1,0 +1,8 @@
+PID: 190
+Name: James Jackson
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Thyroid disorder
+

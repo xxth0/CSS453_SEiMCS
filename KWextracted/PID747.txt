@@ -1,0 +1,8 @@
+PID: 747
+Name: Daniel Rodriguez
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 6
+Name: Emily Smith
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Appendicitis
+

@@ -1,0 +1,8 @@
+PID: 77
+Name: Brittany Cruz
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Arthritis
+

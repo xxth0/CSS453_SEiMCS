@@ -1,0 +1,8 @@
+PID: 904
+Name: Troy Jordan
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Thyroid disorder
+

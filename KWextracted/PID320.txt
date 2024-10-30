@@ -1,0 +1,8 @@
+PID: 320
+Name: Kathleen Martinez
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Diabetes
+

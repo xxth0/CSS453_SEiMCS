@@ -1,0 +1,8 @@
+PID: 395
+Name: Gary Garrett
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Diabetes
+

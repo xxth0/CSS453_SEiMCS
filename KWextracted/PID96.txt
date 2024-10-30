@@ -1,0 +1,8 @@
+PID: 96
+Name: Douglas Ruiz
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Thyroid disorder
+

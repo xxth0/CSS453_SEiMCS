@@ -1,0 +1,8 @@
+PID: 198
+Name: Susan Stone
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Thyroid disorder
+

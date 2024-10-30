@@ -1,0 +1,8 @@
+PID: 793
+Name: Kimberly Mckenzie
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Arthritis
+

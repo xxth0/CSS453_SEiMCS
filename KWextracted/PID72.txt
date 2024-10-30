@@ -1,0 +1,8 @@
+PID: 72
+Name: Edward Howard
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Diabetes
+

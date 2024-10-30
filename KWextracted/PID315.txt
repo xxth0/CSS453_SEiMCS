@@ -1,0 +1,8 @@
+PID: 315
+Name: Emily Acevedo
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Hypertension
+

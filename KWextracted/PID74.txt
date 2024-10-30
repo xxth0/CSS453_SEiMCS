@@ -1,0 +1,8 @@
+PID: 74
+Name: Richard Smith
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Thyroid disorder
+

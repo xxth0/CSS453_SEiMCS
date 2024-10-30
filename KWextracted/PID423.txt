@@ -1,0 +1,8 @@
+PID: 423
+Name: Stephanie Figueroa
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

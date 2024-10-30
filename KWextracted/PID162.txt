@@ -1,0 +1,8 @@
+PID: 162
+Name: Natalie Mendoza DVM
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

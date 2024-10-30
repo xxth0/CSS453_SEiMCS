@@ -1,0 +1,8 @@
+PID: 267
+Name: Michael Allen
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Asthma
+

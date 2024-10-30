@@ -1,0 +1,8 @@
+PID: 952
+Name: Monica Romero
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Diabetes
+

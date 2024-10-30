@@ -1,0 +1,8 @@
+PID: 779
+Name: Catherine Chen
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

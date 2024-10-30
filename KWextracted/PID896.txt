@@ -1,0 +1,8 @@
+PID: 896
+Name: Kimberly Vasquez
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

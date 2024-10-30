@@ -1,0 +1,8 @@
+PID: 858
+Name: Luke Johnson
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 634
+Name: Elijah Brown
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

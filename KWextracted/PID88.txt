@@ -1,0 +1,8 @@
+PID: 88
+Name: Crystal Bryant
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Asthma
+

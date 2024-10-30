@@ -1,0 +1,8 @@
+PID: 16
+Name: Joe Johnson
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Asthma
+

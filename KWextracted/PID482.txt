@@ -1,0 +1,8 @@
+PID: 482
+Name: Laura Beasley
+Gender: Female
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Asthma
+

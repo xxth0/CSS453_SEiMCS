@@ -1,0 +1,8 @@
+PID: 512
+Name: Amber Peters
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

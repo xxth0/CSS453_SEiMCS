@@ -1,0 +1,8 @@
+PID: 690
+Name: Mrs. Shannon Brown
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 24
+Name: David Griffin
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 969
+Name: Cole Bryant
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Diabetes
+

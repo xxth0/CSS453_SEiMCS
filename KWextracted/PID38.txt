@@ -1,0 +1,8 @@
+PID: 38
+Name: Rachel Garcia
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Asthma
+

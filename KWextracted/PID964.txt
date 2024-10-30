@@ -1,0 +1,8 @@
+PID: 964
+Name: Lauren Mann
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

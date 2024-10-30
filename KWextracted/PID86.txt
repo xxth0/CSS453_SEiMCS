@@ -1,0 +1,8 @@
+PID: 86
+Name: Heather Green
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Hypertension
+

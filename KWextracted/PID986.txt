@@ -1,0 +1,8 @@
+PID: 986
+Name: Lawrence Fox
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

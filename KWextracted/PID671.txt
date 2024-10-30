@@ -1,0 +1,8 @@
+PID: 671
+Name: Daniel Walter
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Hypertension
+

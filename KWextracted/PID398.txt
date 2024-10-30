@@ -1,0 +1,8 @@
+PID: 398
+Name: David Stephens
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Diabetes
+

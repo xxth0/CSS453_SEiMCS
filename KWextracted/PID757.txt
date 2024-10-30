@@ -1,0 +1,8 @@
+PID: 757
+Name: Bridget Williams
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Hypertension
+

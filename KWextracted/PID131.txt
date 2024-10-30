@@ -1,0 +1,8 @@
+PID: 131
+Name: Thomas Brooks
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Diabetes
+

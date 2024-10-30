@@ -1,0 +1,8 @@
+PID: 313
+Name: Jacob Bautista
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Arthritis
+

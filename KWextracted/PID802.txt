@@ -1,0 +1,8 @@
+PID: 802
+Name: Daniel Hall
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Asthma
+

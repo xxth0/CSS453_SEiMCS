@@ -1,0 +1,8 @@
+PID: 624
+Name: Christopher Murphy
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

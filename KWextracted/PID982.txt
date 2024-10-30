@@ -1,0 +1,8 @@
+PID: 982
+Name: Alex Cooper
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 163
+Name: Tracy Shaw
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Arthritis
+

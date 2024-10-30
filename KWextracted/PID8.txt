@@ -1,0 +1,8 @@
+PID: 8
+Name: Lisa Walker
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Denver
+Diagnosis: Anemia
+

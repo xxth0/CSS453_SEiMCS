@@ -1,0 +1,8 @@
+PID: 777
+Name: Pamela Estrada MD
+Gender: Female
+Type: IPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Hypertension
+

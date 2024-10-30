@@ -1,0 +1,8 @@
+PID: 459
+Name: Zoe James
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Asthma
+

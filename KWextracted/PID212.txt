@@ -1,0 +1,8 @@
+PID: 212
+Name: John George
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 940
+Name: Eileen Wang
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Arthritis
+

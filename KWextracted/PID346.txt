@@ -1,0 +1,8 @@
+PID: 346
+Name: Adam Williams
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Hypertension
+

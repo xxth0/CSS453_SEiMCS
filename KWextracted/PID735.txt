@@ -1,0 +1,8 @@
+PID: 735
+Name: Vicki Smith
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Diabetes
+

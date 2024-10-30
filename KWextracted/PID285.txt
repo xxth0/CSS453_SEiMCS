@@ -1,0 +1,8 @@
+PID: 285
+Name: Ethan Sandoval
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

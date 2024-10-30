@@ -1,0 +1,8 @@
+PID: 334
+Name: William Decker
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Hypertension
+

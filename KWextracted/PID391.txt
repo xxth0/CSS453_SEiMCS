@@ -1,0 +1,8 @@
+PID: 391
+Name: Kevin Wallace
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Hypertension
+

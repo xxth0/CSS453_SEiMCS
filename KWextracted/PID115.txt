@@ -1,0 +1,8 @@
+PID: 115
+Name: William Fowler
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Thyroid disorder
+

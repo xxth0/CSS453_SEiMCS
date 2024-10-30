@@ -1,0 +1,8 @@
+PID: 245
+Name: Joshua Shah
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

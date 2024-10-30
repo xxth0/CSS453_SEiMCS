@@ -1,0 +1,8 @@
+PID: 981
+Name: Jean Vargas
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

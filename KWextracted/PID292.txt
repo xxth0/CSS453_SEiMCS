@@ -1,0 +1,8 @@
+PID: 292
+Name: Ebony Wall
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Hypertension
+

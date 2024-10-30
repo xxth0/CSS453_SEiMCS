@@ -1,0 +1,8 @@
+PID: 989
+Name: Kelsey Figueroa
+Gender: Female
+Type: IPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Asthma
+

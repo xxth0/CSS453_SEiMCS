@@ -1,0 +1,8 @@
+PID: 687
+Name: Monica Montes
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 988
+Name: Dustin Austin
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Hypertension
+

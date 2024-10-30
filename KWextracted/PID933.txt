@@ -1,0 +1,8 @@
+PID: 933
+Name: Amanda West
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 152
+Name: Kevin Harris
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Asthma
+

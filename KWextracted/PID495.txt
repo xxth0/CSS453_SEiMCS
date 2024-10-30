@@ -1,0 +1,8 @@
+PID: 495
+Name: Angel Morgan
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Phoenix
+Diagnosis: Hypertension
+

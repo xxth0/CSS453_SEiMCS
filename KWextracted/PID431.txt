@@ -1,0 +1,8 @@
+PID: 431
+Name: Heather Cole
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Hypertension
+

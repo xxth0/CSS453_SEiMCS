@@ -1,0 +1,8 @@
+PID: 321
+Name: William Ryan
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: New York
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 344
+Name: Stephanie Black
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Hypertension
+

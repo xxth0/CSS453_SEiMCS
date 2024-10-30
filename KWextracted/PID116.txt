@@ -1,0 +1,8 @@
+PID: 116
+Name: Christina Harris
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Hypertension
+

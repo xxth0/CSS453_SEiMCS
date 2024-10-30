@@ -1,0 +1,8 @@
+PID: 26
+Name: Natalie Hoffman
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Diabetes
+

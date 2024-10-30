@@ -1,0 +1,8 @@
+PID: 685
+Name: Linda Price
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Asthma
+

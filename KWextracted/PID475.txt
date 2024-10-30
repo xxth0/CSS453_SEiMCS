@@ -1,0 +1,8 @@
+PID: 475
+Name: Alexis Clark
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Houston
+Diagnosis: Hypertension
+

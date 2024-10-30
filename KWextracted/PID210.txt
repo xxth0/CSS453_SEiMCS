@@ -1,0 +1,8 @@
+PID: 210
+Name: Patricia Smith
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Hypertension
+

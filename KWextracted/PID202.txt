@@ -1,0 +1,8 @@
+PID: 202
+Name: Julie Martin
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 293
+Name: James Gonzalez
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

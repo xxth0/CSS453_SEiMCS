@@ -1,0 +1,8 @@
+PID: 813
+Name: David Clark
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 247
+Name: Kenneth Koch
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

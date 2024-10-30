@@ -1,0 +1,8 @@
+PID: 329
+Name: Derek Lambert
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Asthma
+

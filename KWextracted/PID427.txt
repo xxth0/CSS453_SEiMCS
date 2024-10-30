@@ -1,0 +1,8 @@
+PID: 427
+Name: Joe Bennett
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Asthma
+

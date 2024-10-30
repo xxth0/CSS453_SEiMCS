@@ -1,0 +1,8 @@
+PID: 926
+Name: Bobby Smith
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Hypertension
+

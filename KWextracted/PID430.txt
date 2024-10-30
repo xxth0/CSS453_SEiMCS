@@ -1,0 +1,8 @@
+PID: 430
+Name: Michael Mason
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Diabetes
+

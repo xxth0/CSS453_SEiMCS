@@ -1,0 +1,8 @@
+PID: 616
+Name: Michael Rasmussen
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Arthritis
+

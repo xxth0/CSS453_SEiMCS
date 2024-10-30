@@ -1,0 +1,8 @@
+PID: 772
+Name: Alexander Goodwin
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

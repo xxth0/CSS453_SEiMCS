@@ -1,0 +1,8 @@
+PID: 371
+Name: Anthony Valdez
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Hypertension
+

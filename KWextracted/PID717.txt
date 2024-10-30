@@ -1,0 +1,8 @@
+PID: 717
+Name: Cody Cruz
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Diabetes
+

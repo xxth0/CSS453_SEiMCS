@@ -1,0 +1,8 @@
+PID: 596
+Name: Jason Sims
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Asthma
+

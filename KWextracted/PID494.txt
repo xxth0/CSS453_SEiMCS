@@ -1,0 +1,8 @@
+PID: 494
+Name: Andrew Duarte
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Arthritis
+

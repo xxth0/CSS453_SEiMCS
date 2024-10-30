@@ -1,0 +1,8 @@
+PID: 157
+Name: Kristen Goodwin DDS
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 185
+Name: James Hernandez
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

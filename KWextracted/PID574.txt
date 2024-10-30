@@ -1,0 +1,8 @@
+PID: 574
+Name: Paul Rodriguez
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Hypertension
+

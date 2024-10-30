@@ -1,0 +1,8 @@
+PID: 778
+Name: Timothy Terrell
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

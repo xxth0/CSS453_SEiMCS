@@ -1,0 +1,8 @@
+PID: 429
+Name: Courtney Nguyen
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

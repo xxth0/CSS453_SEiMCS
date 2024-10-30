@@ -1,0 +1,8 @@
+PID: 387
+Name: William Maddox
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Arthritis
+

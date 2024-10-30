@@ -1,0 +1,8 @@
+PID: 476
+Name: Tanya Petty
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

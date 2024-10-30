@@ -1,0 +1,8 @@
+PID: 106
+Name: Christopher Burgess
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

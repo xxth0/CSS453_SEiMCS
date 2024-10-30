@@ -1,0 +1,8 @@
+PID: 220
+Name: Ashley Montes
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Arthritis
+

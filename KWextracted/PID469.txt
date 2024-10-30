@@ -1,0 +1,8 @@
+PID: 469
+Name: Tiffany Tucker
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

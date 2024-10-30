@@ -1,0 +1,8 @@
+PID: 355
+Name: Brenda Rubio
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

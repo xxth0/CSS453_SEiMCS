@@ -1,0 +1,8 @@
+PID: 846
+Name: Jennifer Thomas
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

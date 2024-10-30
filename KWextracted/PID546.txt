@@ -1,0 +1,8 @@
+PID: 546
+Name: Tiffany Bell
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Hypertension
+

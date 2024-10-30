@@ -1,0 +1,8 @@
+PID: 994
+Name: Nicholas Juarez
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 349
+Name: Chris Hernandez
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 381
+Name: Brian Santana
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Hypertension
+

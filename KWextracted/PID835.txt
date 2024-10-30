@@ -1,0 +1,8 @@
+PID: 835
+Name: Jennifer Nguyen
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Asthma
+

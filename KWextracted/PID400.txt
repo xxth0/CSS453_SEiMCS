@@ -1,0 +1,8 @@
+PID: 400
+Name: Adam Middleton
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

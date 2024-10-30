@@ -1,0 +1,8 @@
+PID: 511
+Name: Luis Schmidt
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

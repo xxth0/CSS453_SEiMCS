@@ -1,0 +1,8 @@
+PID: 230
+Name: Jeffery Jones
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Asthma
+

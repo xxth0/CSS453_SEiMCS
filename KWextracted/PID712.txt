@@ -1,0 +1,8 @@
+PID: 712
+Name: Jamie Wright
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

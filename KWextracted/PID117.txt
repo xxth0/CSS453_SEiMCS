@@ -1,0 +1,8 @@
+PID: 117
+Name: Michael Smith
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Diabetes
+

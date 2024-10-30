@@ -1,0 +1,8 @@
+PID: 135
+Name: Gregory Copeland
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

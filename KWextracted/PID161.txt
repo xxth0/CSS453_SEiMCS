@@ -1,0 +1,8 @@
+PID: 161
+Name: Troy Turner
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Hypertension
+

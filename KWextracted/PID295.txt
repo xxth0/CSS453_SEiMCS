@@ -1,0 +1,8 @@
+PID: 295
+Name: Ricky Newton
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Hypertension
+

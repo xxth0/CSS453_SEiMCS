@@ -1,0 +1,8 @@
+PID: 282
+Name: Jose Durham
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Chicago
+Diagnosis: Arthritis
+

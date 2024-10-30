@@ -1,0 +1,8 @@
+PID: 604
+Name: Misty Murray
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

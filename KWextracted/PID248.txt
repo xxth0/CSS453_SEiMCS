@@ -1,0 +1,8 @@
+PID: 248
+Name: Mary Roberts
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Asthma
+

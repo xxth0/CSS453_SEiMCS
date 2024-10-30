@@ -1,0 +1,8 @@
+PID: 540
+Name: William Kelly
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Diabetes
+

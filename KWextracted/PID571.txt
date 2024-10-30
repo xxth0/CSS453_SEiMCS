@@ -1,0 +1,8 @@
+PID: 571
+Name: Joseph Crane
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Asthma
+

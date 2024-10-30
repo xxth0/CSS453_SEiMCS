@@ -1,0 +1,8 @@
+PID: 579
+Name: Laurie Byrd
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

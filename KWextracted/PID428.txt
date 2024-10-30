@@ -1,0 +1,8 @@
+PID: 428
+Name: John Mills
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: New York
+Diagnosis: Arthritis
+

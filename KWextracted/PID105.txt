@@ -1,0 +1,8 @@
+PID: 105
+Name: John Russell
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Arthritis
+

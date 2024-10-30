@@ -1,0 +1,8 @@
+PID: 468
+Name: Amber Carlson
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

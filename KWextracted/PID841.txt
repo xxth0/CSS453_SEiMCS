@@ -1,0 +1,8 @@
+PID: 841
+Name: Jennifer Nguyen
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Hypertension
+

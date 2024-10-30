@@ -1,0 +1,8 @@
+PID: 693
+Name: Ashley Wyatt
+Gender: Male
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Thyroid disorder
+

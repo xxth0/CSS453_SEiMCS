@@ -1,0 +1,8 @@
+PID: 754
+Name: Brian Turner
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Arthritis
+

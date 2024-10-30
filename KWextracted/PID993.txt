@@ -1,0 +1,8 @@
+PID: 993
+Name: Daniel Castro
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Hypertension
+

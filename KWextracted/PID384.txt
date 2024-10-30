@@ -1,0 +1,8 @@
+PID: 384
+Name: Stephen Burke
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Thyroid disorder
+

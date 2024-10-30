@@ -1,0 +1,8 @@
+PID: 783
+Name: Manuel Delacruz
+Gender: Other
+Type: OPD
+Allergies: nan
+Region: Houston
+Diagnosis: Thyroid disorder
+

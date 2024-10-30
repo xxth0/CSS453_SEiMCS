@@ -1,0 +1,8 @@
+PID: 319
+Name: Amy Taylor
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Diabetes
+

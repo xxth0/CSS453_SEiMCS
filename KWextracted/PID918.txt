@@ -1,0 +1,8 @@
+PID: 918
+Name: John Burke
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Diabetes
+

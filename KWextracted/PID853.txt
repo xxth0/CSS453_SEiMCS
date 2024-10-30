@@ -1,0 +1,8 @@
+PID: 853
+Name: Kimberly Le
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Diabetes
+

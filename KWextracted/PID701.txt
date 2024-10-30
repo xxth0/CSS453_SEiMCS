@@ -1,0 +1,8 @@
+PID: 701
+Name: James Bauer
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Diabetes
+

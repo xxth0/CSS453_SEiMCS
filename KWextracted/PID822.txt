@@ -1,0 +1,8 @@
+PID: 822
+Name: Lisa Jensen
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Asthma
+

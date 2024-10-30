@@ -1,0 +1,8 @@
+PID: 676
+Name: Michael Wright
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Asthma
+

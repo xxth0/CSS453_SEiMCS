@@ -1,0 +1,8 @@
+PID: 613
+Name: Ellen Howard
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Thyroid disorder
+

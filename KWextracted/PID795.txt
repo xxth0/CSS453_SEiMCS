@@ -1,0 +1,8 @@
+PID: 795
+Name: Amy Morales
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: New York
+Diagnosis: Arthritis
+

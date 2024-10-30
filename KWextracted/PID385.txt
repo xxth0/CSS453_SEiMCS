@@ -1,0 +1,8 @@
+PID: 385
+Name: Brian Frank
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

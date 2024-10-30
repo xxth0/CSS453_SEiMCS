@@ -1,0 +1,8 @@
+PID: 78
+Name: Stephanie Wright
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

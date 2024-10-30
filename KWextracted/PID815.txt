@@ -1,0 +1,8 @@
+PID: 815
+Name: Amanda Hughes
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Houston
+Diagnosis: Diabetes
+

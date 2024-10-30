@@ -1,0 +1,8 @@
+PID: 814
+Name: Kyle Reyes
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Hypertension
+

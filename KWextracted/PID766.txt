@@ -1,0 +1,8 @@
+PID: 766
+Name: Wesley Walters
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

@@ -1,0 +1,8 @@
+PID: 93
+Name: Michael Stanton
+Gender: Male
+Type: IPD
+Allergies: Peanuts
+Region: Houston
+Diagnosis: Arthritis
+

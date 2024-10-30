@@ -1,0 +1,8 @@
+PID: 770
+Name: Jeremy Harvey
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Asthma
+

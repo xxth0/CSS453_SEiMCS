@@ -1,0 +1,8 @@
+PID: 246
+Name: William Alexander
+Gender: Male
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Thyroid disorder
+

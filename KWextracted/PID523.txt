@@ -1,0 +1,8 @@
+PID: 523
+Name: Alexandra Delgado
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Asthma
+

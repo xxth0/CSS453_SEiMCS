@@ -1,0 +1,8 @@
+PID: 173
+Name: Rick Hodge
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Houston
+Diagnosis: Thyroid disorder
+

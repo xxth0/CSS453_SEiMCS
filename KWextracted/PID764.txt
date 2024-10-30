@@ -1,0 +1,8 @@
+PID: 764
+Name: Paul Rose
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 151
+Name: Paul Gonzalez
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 888
+Name: Sue Kirby
+Gender: Female
+Type: OPD
+Allergies: Penicillin
+Region: Los Angeles
+Diagnosis: Asthma
+

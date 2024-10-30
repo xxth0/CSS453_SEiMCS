@@ -1,0 +1,8 @@
+PID: 390
+Name: Shane Bennett
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Asthma
+

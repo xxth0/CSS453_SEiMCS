@@ -1,0 +1,8 @@
+PID: 52
+Name: Alexis Ramos
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: New York
+Diagnosis: Hypertension
+

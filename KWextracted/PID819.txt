@@ -1,0 +1,8 @@
+PID: 819
+Name: Katrina Hicks
+Gender: Other
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

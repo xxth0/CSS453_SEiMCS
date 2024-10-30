@@ -1,0 +1,8 @@
+PID: 510
+Name: Matthew Bates
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Arthritis
+

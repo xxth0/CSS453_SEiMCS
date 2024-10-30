@@ -1,0 +1,8 @@
+PID: 878
+Name: Diane Hall
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

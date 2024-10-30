@@ -1,0 +1,8 @@
+PID: 639
+Name: Morgan Vargas
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Thyroid disorder
+

@@ -1,0 +1,8 @@
+PID: 4
+Name: Linda Brown
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Hypertension
+

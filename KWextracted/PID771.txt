@@ -1,0 +1,8 @@
+PID: 771
+Name: Annette Perez
+Gender: Other
+Type: OPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Diabetes
+

@@ -1,0 +1,8 @@
+PID: 149
+Name: Christine Hudson
+Gender: Female
+Type: OPD
+Allergies: Latex
+Region: New York
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 960
+Name: Scott Bowers
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Arthritis
+

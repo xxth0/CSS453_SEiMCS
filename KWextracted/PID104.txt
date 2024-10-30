@@ -1,0 +1,8 @@
+PID: 104
+Name: Amanda Castillo
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Arthritis
+

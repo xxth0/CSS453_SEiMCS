@@ -1,0 +1,8 @@
+PID: 622
+Name: Charles Knight
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: New York
+Diagnosis: Asthma
+

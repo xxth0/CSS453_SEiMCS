@@ -1,0 +1,8 @@
+PID: 233
+Name: Anthony Thomas
+Gender: Other
+Type: IPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

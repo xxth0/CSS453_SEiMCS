@@ -1,0 +1,8 @@
+PID: 175
+Name: Keith Taylor
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Diabetes
+

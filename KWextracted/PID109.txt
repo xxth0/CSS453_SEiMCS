@@ -1,0 +1,8 @@
+PID: 109
+Name: Charles Gonzales
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Asthma
+

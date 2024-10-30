@@ -1,0 +1,8 @@
+PID: 980
+Name: Ashley Mccormick
+Gender: Other
+Type: OPD
+Allergies: Iodine
+Region: Houston
+Diagnosis: Thyroid disorder
+

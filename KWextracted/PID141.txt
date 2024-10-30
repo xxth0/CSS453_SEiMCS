@@ -1,0 +1,8 @@
+PID: 141
+Name: Jennifer Ball DDS
+Gender: Male
+Type: IPD
+Allergies: nan
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

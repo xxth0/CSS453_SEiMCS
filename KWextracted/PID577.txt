@@ -1,0 +1,8 @@
+PID: 577
+Name: Mr. Samuel Johnson
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Diabetes
+

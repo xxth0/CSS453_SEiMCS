@@ -1,0 +1,8 @@
+PID: 501
+Name: Valerie Glass
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

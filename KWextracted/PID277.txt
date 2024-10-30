@@ -1,0 +1,8 @@
+PID: 277
+Name: John Garner
+Gender: Male
+Type: OPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Thyroid disorder
+

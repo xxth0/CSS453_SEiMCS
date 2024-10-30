@@ -1,0 +1,8 @@
+PID: 650
+Name: Michael Smith
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

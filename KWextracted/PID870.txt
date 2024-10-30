@@ -1,0 +1,8 @@
+PID: 870
+Name: Elizabeth Parks
+Gender: Other
+Type: IPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Diabetes
+

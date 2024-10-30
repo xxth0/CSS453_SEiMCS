@@ -1,0 +1,8 @@
+PID: 760
+Name: Penny Gordon
+Gender: Other
+Type: OPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Asthma
+

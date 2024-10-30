@@ -1,0 +1,8 @@
+PID: 857
+Name: Andrew Cook
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Houston
+Diagnosis: Asthma
+

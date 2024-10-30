@@ -1,0 +1,8 @@
+PID: 562
+Name: Amanda Ward
+Gender: Male
+Type: OPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Asthma
+

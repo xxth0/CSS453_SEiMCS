@@ -1,0 +1,8 @@
+PID: 765
+Name: Christopher Woods
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Chicago
+Diagnosis: Diabetes
+

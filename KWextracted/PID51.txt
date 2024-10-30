@@ -1,0 +1,8 @@
+PID: 51
+Name: David Patterson
+Gender: Male
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 176
+Name: Matthew Smith
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: New York
+Diagnosis: Hypertension
+

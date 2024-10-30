@@ -1,0 +1,8 @@
+PID: 543
+Name: Calvin Hill
+Gender: Female
+Type: OPD
+Allergies: Peanuts
+Region: Phoenix
+Diagnosis: Diabetes
+

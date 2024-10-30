@@ -1,0 +1,8 @@
+PID: 548
+Name: Christine Smith
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Asthma
+

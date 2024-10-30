@@ -1,0 +1,8 @@
+PID: 130
+Name: Erin Stewart
+Gender: Male
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Diabetes
+

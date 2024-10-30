@@ -1,0 +1,8 @@
+PID: 972
+Name: Michael Smith
+Gender: Female
+Type: IPD
+Allergies: Latex
+Region: Los Angeles
+Diagnosis: Arthritis
+

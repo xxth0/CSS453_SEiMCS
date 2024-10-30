@@ -1,0 +1,8 @@
+PID: 377
+Name: Valerie Mullins
+Gender: Other
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Asthma
+

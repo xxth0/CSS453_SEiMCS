@@ -1,0 +1,8 @@
+PID: 417
+Name: Maria Johnston
+Gender: Female
+Type: IPD
+Allergies: nan
+Region: Phoenix
+Diagnosis: Hypertension
+

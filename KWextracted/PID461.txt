@@ -1,0 +1,8 @@
+PID: 461
+Name: Timothy Simpson
+Gender: Female
+Type: OPD
+Allergies: nan
+Region: Chicago
+Diagnosis: Asthma
+

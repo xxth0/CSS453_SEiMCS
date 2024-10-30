@@ -1,0 +1,8 @@
+PID: 348
+Name: Ryan Moore
+Gender: Female
+Type: IPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Diabetes
+

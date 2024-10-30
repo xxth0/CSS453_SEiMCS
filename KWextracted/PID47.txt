@@ -1,0 +1,8 @@
+PID: 47
+Name: Sergio Wilson
+Gender: Female
+Type: OPD
+Allergies: Iodine
+Region: Los Angeles
+Diagnosis: Arthritis
+

@@ -1,0 +1,8 @@
+PID: 497
+Name: Ronald Wright
+Gender: Male
+Type: OPD
+Allergies: Peanuts
+Region: Los Angeles
+Diagnosis: Hypertension
+

@@ -1,0 +1,8 @@
+PID: 733
+Name: Katrina Sanders
+Gender: Female
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Thyroid disorder
+

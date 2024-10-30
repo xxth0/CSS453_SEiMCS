@@ -1,0 +1,8 @@
+PID: 843
+Name: Amy Robinson
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Phoenix
+Diagnosis: Hypertension
+

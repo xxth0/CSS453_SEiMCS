@@ -1,0 +1,8 @@
+PID: 168
+Name: Amber Mclaughlin
+Gender: Male
+Type: IPD
+Allergies: Penicillin
+Region: Chicago
+Diagnosis: Diabetes
+

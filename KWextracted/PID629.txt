@@ -1,0 +1,8 @@
+PID: 629
+Name: Courtney Jimenez
+Gender: Other
+Type: IPD
+Allergies: Latex
+Region: Chicago
+Diagnosis: Hypertension
+
