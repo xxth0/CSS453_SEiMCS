@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2134,Dana Thompson,70,Female,OPD,Houston,Thyroid disorder,Metformin,Thyroidectomy,2024-08-01,Paid,Aetna,Latex,Annual,Elevated,Fracture,,,Bleeding,Ongoing

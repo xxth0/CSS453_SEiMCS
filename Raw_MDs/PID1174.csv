@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1174,Connie Morgan,52,Male,OPD,New York,Thyroid disorder,Ibuprofen,None,2022-12-05,Pending,Aetna,Penicillin,Annual,Low,Abnormality,,2023-04-04,None,Full

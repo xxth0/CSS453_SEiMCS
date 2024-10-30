@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1288,Robert Walker,22,Female,OPD,Houston,Arthritis,Ibuprofen,Gallbladder removal,2022-12-15,Pending,Blue Cross,Iodine,Annual,Normal,Normal,Inconclusive,,Bleeding,Full

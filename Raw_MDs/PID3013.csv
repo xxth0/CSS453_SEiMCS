@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3013,Deborah King,56,Female,OPD,Los Angeles,Asthma,Ibuprofen,Gallbladder removal,2022-11-29,Unpaid,UnitedHealthcare,None,Annual,Elevated,Fracture,,2019-01-15,Delayed recovery,Ongoing

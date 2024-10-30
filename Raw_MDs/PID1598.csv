@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1598,David Wilson,62,Other,OPD,Houston,Asthma,Ibuprofen,None,2023-08-22,Unpaid,Blue Cross,None,Annual,Elevated,Normal,,2019-05-15,Bleeding,Ongoing

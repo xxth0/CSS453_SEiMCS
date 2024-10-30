@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3012,Monica Jones,26,Other,IPD,Houston,Arthritis,Lisinopril,Appendectomy,2023-10-01,Paid,Cigna,None,Quarterly,Low,Normal,Normal,2022-08-05,None,Partial

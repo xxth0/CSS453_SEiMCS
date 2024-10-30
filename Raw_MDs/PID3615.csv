@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3615,Adam Smith,48,Male,IPD,New York,Diabetes,Ibuprofen,Gallbladder removal,2024-04-23,Pending,Cigna,Latex,Quarterly,Low,Fracture,,2016-12-09,Bleeding,Full

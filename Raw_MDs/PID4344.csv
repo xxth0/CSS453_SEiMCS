@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4344,Michaela Rodriguez,64,Male,OPD,New York,Diabetes,Ibuprofen,Gallbladder removal,2023-03-09,Paid,Cigna,Penicillin,Quarterly,Normal,Abnormality,,2023-04-20,Delayed recovery,Ongoing

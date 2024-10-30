@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1858,Kenneth Byrd,74,Other,OPD,Houston,Arthritis,Ibuprofen,Thyroidectomy,2023-11-19,Paid,Aetna,Latex,Quarterly,Elevated,Fracture,Normal,,Delayed recovery,Ongoing

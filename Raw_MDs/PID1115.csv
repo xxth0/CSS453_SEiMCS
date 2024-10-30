@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1115,Phillip Vang,52,Male,OPD,Houston,Asthma,Ibuprofen,None,2023-03-24,Paid,Cigna,Penicillin,Annual,Low,Normal,,,None,Ongoing

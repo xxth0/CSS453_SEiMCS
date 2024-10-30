@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1217,Lisa Knight,20,Female,IPD,Chicago,Thyroid disorder,Metformin,Thyroidectomy,2023-06-08,Pending,Blue Cross,None,Biannual,Low,Normal,Inconclusive,,Delayed recovery,Ongoing

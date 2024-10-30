@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1429,Tina Ramirez,47,Female,IPD,Phoenix,Hypertension,Ibuprofen,Appendectomy,2023-02-07,Paid,UnitedHealthcare,Latex,Annual,Elevated,Abnormality,,,None,Full

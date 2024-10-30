@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1106,Robert Owens,80,Male,OPD,Houston,Asthma,Levothyroxine,None,2023-10-30,Pending,UnitedHealthcare,Penicillin,Quarterly,Normal,Normal,,,Delayed recovery,Full

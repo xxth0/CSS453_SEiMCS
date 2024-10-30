@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2893,Nicholas Oconnor,25,Male,OPD,Houston,Diabetes,Lisinopril,Thyroidectomy,2023-06-20,Unpaid,Aetna,Peanuts,Annual,Elevated,Normal,,2018-08-12,Bleeding,Ongoing

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1151,Robert Barker,55,Other,OPD,Los Angeles,Diabetes,Metformin,None,2023-06-16,Paid,Aetna,None,Quarterly,Elevated,Fracture,,2018-08-27,Infection,Ongoing

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4960,Jeffrey Bailey,34,Male,OPD,Los Angeles,Asthma,Ibuprofen,Appendectomy,2024-10-17,Paid,UnitedHealthcare,Penicillin,Biannual,Normal,Normal,,,Infection,Partial

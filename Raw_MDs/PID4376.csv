@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4376,Steve Turner,30,Female,OPD,Houston,Diabetes,Lisinopril,None,2023-12-20,Unpaid,Cigna,Latex,Biannual,Elevated,Fracture,,,Infection,Ongoing

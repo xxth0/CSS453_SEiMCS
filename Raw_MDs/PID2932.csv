@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2932,Laura Matthews,78,Female,IPD,Chicago,Asthma,Ibuprofen,Gallbladder removal,2023-06-06,Unpaid,Humana,Latex,Biannual,Normal,Abnormality,Normal,,Delayed recovery,Ongoing

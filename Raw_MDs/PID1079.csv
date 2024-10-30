@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1079,Mallory Johnson,36,Female,OPD,Houston,Diabetes,Ibuprofen,Appendectomy,2024-10-12,Unpaid,Cigna,Peanuts,Quarterly,Low,Fracture,,2016-04-29,None,Partial

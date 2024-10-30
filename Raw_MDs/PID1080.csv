@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1080,Jorge Collins,55,Male,IPD,New York,Diabetes,Ibuprofen,None,2024-03-13,Pending,Blue Cross,Peanuts,Quarterly,Low,Abnormality,,,Delayed recovery,Ongoing

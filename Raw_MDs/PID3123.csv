@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3123,Jose Moore,76,Female,IPD,Chicago,Hypertension,Lisinopril,None,2023-06-22,Unpaid,Aetna,Penicillin,Quarterly,Elevated,Abnormality,Lesion detected,,Infection,Partial

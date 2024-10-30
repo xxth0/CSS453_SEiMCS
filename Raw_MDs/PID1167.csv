@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1167,Paul Fischer,62,Female,OPD,Chicago,Diabetes,Levothyroxine,Thyroidectomy,2022-11-16,Paid,UnitedHealthcare,None,Quarterly,Low,Fracture,Normal,2015-03-01,Infection,Full

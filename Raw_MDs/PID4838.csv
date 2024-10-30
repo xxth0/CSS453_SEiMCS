@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4838,Patrick Smith,40,Other,OPD,New York,Asthma,Albuterol,Thyroidectomy,2023-08-11,Pending,Humana,None,Quarterly,Elevated,Abnormality,,,None,Ongoing

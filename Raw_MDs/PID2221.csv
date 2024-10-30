@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2221,Stephen Daugherty,37,Male,OPD,Phoenix,Thyroid disorder,Lisinopril,Appendectomy,2023-07-16,Pending,Blue Cross,None,Quarterly,Elevated,Normal,,2022-05-02,None,Ongoing

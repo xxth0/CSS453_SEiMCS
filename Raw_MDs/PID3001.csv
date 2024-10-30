@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3001,Tara Jones,29,Male,OPD,Houston,Arthritis,Albuterol,None,2024-02-10,Unpaid,Cigna,Peanuts,Quarterly,Normal,Fracture,Inconclusive,2015-09-04,None,Partial

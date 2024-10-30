@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4626,Matthew Williams,79,Female,OPD,Los Angeles,Arthritis,Ibuprofen,Thyroidectomy,2024-09-20,Paid,Aetna,None,Biannual,Low,Abnormality,,,None,Partial

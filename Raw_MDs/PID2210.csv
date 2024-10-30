@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2210,Richard Johnson MD,64,Other,OPD,Los Angeles,Hypertension,Albuterol,Appendectomy,2023-09-25,Pending,Blue Cross,None,Biannual,Elevated,Fracture,Lesion detected,2021-10-13,Infection,Ongoing

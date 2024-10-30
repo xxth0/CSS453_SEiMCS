@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1327,Frank Ramos,53,Female,IPD,Los Angeles,Hypertension,Ibuprofen,Thyroidectomy,2024-07-31,Pending,Humana,Latex,Annual,Elevated,Fracture,Normal,,Delayed recovery,Full

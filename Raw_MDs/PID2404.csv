@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2404,Jose Frazier,24,Male,IPD,Chicago,Thyroid disorder,Ibuprofen,Gallbladder removal,2024-01-28,Paid,Cigna,Iodine,Biannual,Normal,Abnormality,,2016-03-17,None,Ongoing

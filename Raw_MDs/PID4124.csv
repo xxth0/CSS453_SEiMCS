@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4124,Gabriel Gibson,25,Male,IPD,Chicago,Thyroid disorder,Metformin,None,2022-12-01,Paid,Humana,Iodine,Biannual,Low,Abnormality,,2020-12-23,Delayed recovery,Full

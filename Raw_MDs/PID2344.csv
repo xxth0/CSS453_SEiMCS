@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2344,Linda Smith,26,Female,IPD,Los Angeles,Hypertension,Metformin,None,2023-02-25,Unpaid,Humana,Peanuts,Annual,Low,Fracture,Normal,,Infection,Full

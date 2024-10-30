@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2292,Rachel Castro,53,Male,OPD,New York,Asthma,Ibuprofen,None,2022-12-26,Pending,Cigna,None,Annual,Low,Normal,,,Delayed recovery,Partial

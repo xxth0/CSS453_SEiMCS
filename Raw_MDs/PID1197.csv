@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1197,Linda Scott,67,Male,OPD,Chicago,Asthma,Ibuprofen,Appendectomy,2022-12-17,Unpaid,UnitedHealthcare,Latex,Biannual,Low,Normal,Inconclusive,,Infection,Ongoing

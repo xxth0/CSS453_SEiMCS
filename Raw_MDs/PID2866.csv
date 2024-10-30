@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2866,Jeremy Richardson,48,Male,IPD,Phoenix,Asthma,Ibuprofen,Thyroidectomy,2023-03-15,Pending,Aetna,None,Biannual,Low,Abnormality,,2023-09-15,Infection,Full

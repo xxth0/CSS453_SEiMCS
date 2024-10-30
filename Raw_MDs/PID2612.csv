@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2612,Jessica Smith,45,Male,IPD,Houston,Asthma,Ibuprofen,Thyroidectomy,2022-12-20,Unpaid,UnitedHealthcare,Latex,Quarterly,Low,Fracture,,,Delayed recovery,Partial

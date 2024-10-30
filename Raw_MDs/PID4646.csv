@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4646,John Baxter,53,Other,IPD,Houston,Hypertension,Ibuprofen,None,2023-08-21,Pending,Blue Cross,None,Quarterly,Normal,Abnormality,Lesion detected,2020-05-02,None,Partial

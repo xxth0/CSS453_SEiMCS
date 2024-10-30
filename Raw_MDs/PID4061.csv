@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4061,Michael Juarez,35,Male,OPD,Chicago,Thyroid disorder,Ibuprofen,Appendectomy,2023-05-10,Paid,Blue Cross,Peanuts,Annual,Normal,Normal,,2014-11-30,None,Partial

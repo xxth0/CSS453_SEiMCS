@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3211,Robert Brown,46,Other,IPD,Houston,Hypertension,Metformin,Thyroidectomy,2023-01-20,Paid,Blue Cross,None,Biannual,Elevated,Abnormality,,2022-04-09,Delayed recovery,Partial

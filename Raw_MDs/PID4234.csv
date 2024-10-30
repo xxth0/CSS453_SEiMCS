@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4234,John Harmon,27,Male,IPD,New York,Asthma,Metformin,Thyroidectomy,2023-03-27,Pending,Blue Cross,Peanuts,Annual,Normal,Abnormality,,2018-08-12,Infection,Full

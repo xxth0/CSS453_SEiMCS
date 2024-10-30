@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3560,Evelyn Rowe,25,Female,OPD,Los Angeles,Asthma,Metformin,None,2024-01-30,Unpaid,UnitedHealthcare,Peanuts,Quarterly,Elevated,Normal,,2020-07-08,Infection,Ongoing

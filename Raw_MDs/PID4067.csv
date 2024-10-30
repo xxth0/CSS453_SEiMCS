@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4067,Daniel Roberson,65,Other,OPD,Los Angeles,Thyroid disorder,Metformin,None,2023-07-28,Pending,Humana,Iodine,Annual,Elevated,Normal,Lesion detected,2015-07-20,Bleeding,Full

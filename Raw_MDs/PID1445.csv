@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1445,Joseph Hanna,22,Other,IPD,New York,Arthritis,Ibuprofen,Thyroidectomy,2023-11-01,Unpaid,Cigna,None,Biannual,Normal,Abnormality,Normal,,Delayed recovery,Full

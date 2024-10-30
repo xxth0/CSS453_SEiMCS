@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1282,Laura Kirk,40,Other,OPD,Los Angeles,Thyroid disorder,Ibuprofen,Gallbladder removal,2023-12-09,Pending,UnitedHealthcare,Penicillin,Quarterly,Elevated,Normal,Normal,,Delayed recovery,Ongoing

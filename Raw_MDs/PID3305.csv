@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3305,Matthew Kramer,55,Male,IPD,Houston,Hypertension,Ibuprofen,None,2024-01-15,Unpaid,Humana,Latex,Biannual,Elevated,Abnormality,,2020-05-27,None,Partial

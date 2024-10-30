@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2850,Larry Anderson,71,Other,IPD,Chicago,Thyroid disorder,Ibuprofen,None,2024-04-28,Pending,Cigna,Latex,Annual,Low,Normal,,2021-12-24,Bleeding,Partial

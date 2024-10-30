@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3706,Jordan Campbell,71,Female,OPD,Houston,Arthritis,Ibuprofen,Thyroidectomy,2023-12-28,Pending,Blue Cross,Iodine,Quarterly,Elevated,Fracture,,,None,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2908,Mary Warren,64,Other,OPD,Houston,Hypertension,Ibuprofen,None,2024-06-12,Unpaid,Aetna,None,Quarterly,Normal,Fracture,Inconclusive,,Delayed recovery,Partial

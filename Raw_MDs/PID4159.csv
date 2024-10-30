@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4159,Nicholas Lowe,59,Male,IPD,Chicago,Asthma,Ibuprofen,Thyroidectomy,2023-06-17,Pending,Blue Cross,Latex,Annual,Elevated,Abnormality,,2017-10-20,Infection,Partial

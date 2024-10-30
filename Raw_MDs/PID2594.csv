@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2594,Brent Wagner,64,Female,OPD,Houston,Arthritis,Ibuprofen,Gallbladder removal,2023-08-06,Unpaid,Aetna,Latex,Quarterly,Low,Normal,Lesion detected,,None,Ongoing

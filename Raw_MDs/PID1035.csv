@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1035,Eric Miller,42,Other,OPD,Chicago,Asthma,Ibuprofen,Appendectomy,2024-01-02,Pending,Blue Cross,Peanuts,Quarterly,Elevated,Normal,Lesion detected,,Delayed recovery,Full

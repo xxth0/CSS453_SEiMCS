@@ -1,2 +1,2 @@
 Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
-3,Maria Gonzales,28,Female,OPD,New York,Asthma,Albuterol,None,2023-07-22,Paid,Cigna,Pollen,Quarterly,Normal,Normal,,None,None,Stable
+3,Rebecca Ochoa,61,Male,IPD,New York,Asthma,Lisinopril,Appendectomy,2024-06-07,Paid,Humana,Latex,Biannual,Low,Fracture,Inconclusive,,Bleeding,Full

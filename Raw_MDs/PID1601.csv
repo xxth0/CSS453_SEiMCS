@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1601,Devin Thomas,54,Male,OPD,Phoenix,Arthritis,Albuterol,Thyroidectomy,2023-08-05,Pending,Blue Cross,Iodine,Annual,Elevated,Fracture,,2023-07-31,Delayed recovery,Ongoing

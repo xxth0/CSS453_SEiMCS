@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3279,Laura Miller,31,Female,IPD,Houston,Hypertension,Ibuprofen,None,2024-05-14,Paid,Aetna,Peanuts,Biannual,Low,Fracture,Normal,2015-09-15,None,Partial

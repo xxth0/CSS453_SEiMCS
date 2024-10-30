@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1630,Kevin Stark,30,Other,IPD,Los Angeles,Arthritis,Lisinopril,Thyroidectomy,2023-05-16,Pending,Cigna,None,Annual,Elevated,Fracture,,2022-10-05,Bleeding,Partial

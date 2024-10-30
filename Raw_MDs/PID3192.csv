@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3192,Mark Turner,80,Male,IPD,Chicago,Asthma,Ibuprofen,Thyroidectomy,2023-12-17,Unpaid,Blue Cross,Peanuts,Quarterly,Low,Normal,,2015-11-13,Delayed recovery,Full

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2390,Aaron Santana,63,Male,IPD,Los Angeles,Diabetes,Ibuprofen,Thyroidectomy,2023-06-20,Pending,Blue Cross,Penicillin,Annual,Low,Fracture,,2019-07-23,Bleeding,Ongoing

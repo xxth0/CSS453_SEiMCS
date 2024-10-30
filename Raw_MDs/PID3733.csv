@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3733,Matthew Ramirez,41,Other,OPD,Los Angeles,Diabetes,Ibuprofen,None,2023-07-02,Unpaid,Blue Cross,Penicillin,Annual,Normal,Abnormality,,,Infection,Partial

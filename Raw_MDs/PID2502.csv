@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2502,Matthew Lucas,69,Female,IPD,Chicago,Asthma,Ibuprofen,Thyroidectomy,2023-06-27,Pending,Cigna,Peanuts,Quarterly,Elevated,Normal,,,Infection,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3223,Joshua King,46,Male,OPD,Chicago,Hypertension,Metformin,Thyroidectomy,2023-01-19,Unpaid,UnitedHealthcare,Peanuts,Biannual,Normal,Abnormality,,2022-03-14,None,Partial

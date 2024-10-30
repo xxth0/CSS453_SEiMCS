@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2575,Stephen Lowe,75,Other,IPD,Houston,Thyroid disorder,Ibuprofen,None,2023-09-20,Unpaid,Humana,None,Annual,Elevated,Fracture,Inconclusive,,Infection,Partial

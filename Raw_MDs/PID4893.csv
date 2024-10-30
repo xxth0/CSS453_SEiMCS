@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4893,Andrew Fritz,37,Male,OPD,New York,Thyroid disorder,Metformin,Appendectomy,2024-01-24,Pending,Humana,None,Biannual,Normal,Normal,Normal,2015-01-05,Bleeding,Partial

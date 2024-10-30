@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4638,Melanie Johnson,46,Male,OPD,Phoenix,Asthma,Ibuprofen,None,2024-04-08,Paid,Aetna,Peanuts,Quarterly,Elevated,Normal,Inconclusive,,Infection,Partial

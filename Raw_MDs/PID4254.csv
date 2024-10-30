@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4254,Teresa Thomas,35,Female,IPD,Houston,Arthritis,Ibuprofen,None,2024-01-24,Pending,Cigna,None,Quarterly,Elevated,Abnormality,,2018-10-06,Delayed recovery,Partial

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3045,Michael Knapp,59,Other,OPD,Chicago,Diabetes,Lisinopril,None,2023-02-24,Paid,Humana,None,Biannual,Normal,Fracture,Inconclusive,,Delayed recovery,Partial

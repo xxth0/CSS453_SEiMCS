@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1900,William Trujillo,53,Other,IPD,Houston,Diabetes,Metformin,Thyroidectomy,2023-12-02,Pending,Cigna,Peanuts,Quarterly,Normal,Fracture,Lesion detected,,None,Ongoing

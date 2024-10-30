@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2650,Steven Parrish,45,Female,IPD,Los Angeles,Diabetes,Ibuprofen,Appendectomy,2023-08-03,Paid,Humana,Penicillin,Quarterly,Normal,Abnormality,,2020-12-28,None,Ongoing

@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4999,Stephanie Hoffman,21,Male,OPD,Phoenix,Asthma,Ibuprofen,Appendectomy,2024-02-01,Paid,Aetna,None,Biannual,Normal,Normal,,2019-03-04,Infection,Ongoing

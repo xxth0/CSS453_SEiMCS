@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+2762,Denise Moran,31,Female,IPD,Houston,Thyroid disorder,Ibuprofen,None,2023-01-10,Pending,Humana,None,Biannual,Elevated,Abnormality,,2020-10-15,Bleeding,Partial

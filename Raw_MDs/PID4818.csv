@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4818,Charles Brown,41,Male,IPD,Chicago,Diabetes,Metformin,Appendectomy,2023-06-19,Pending,Cigna,None,Biannual,Normal,Fracture,,,Infection,Ongoing

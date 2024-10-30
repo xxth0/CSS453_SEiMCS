@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1110,Brittany Kelly,71,Other,IPD,Chicago,Hypertension,Ibuprofen,Appendectomy,2023-08-18,Pending,UnitedHealthcare,None,Biannual,Normal,Abnormality,Lesion detected,,Infection,Ongoing

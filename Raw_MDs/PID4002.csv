@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4002,Angela Thompson,68,Female,OPD,Chicago,Arthritis,Ibuprofen,None,2024-03-02,Unpaid,Cigna,Peanuts,Annual,Normal,Normal,Inconclusive,,None,Ongoing

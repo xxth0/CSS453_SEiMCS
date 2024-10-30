@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1402,Jessica Wilson,46,Other,OPD,New York,Asthma,Ibuprofen,None,2024-10-20,Pending,Humana,Latex,Biannual,Normal,Fracture,Normal,,Infection,Ongoing

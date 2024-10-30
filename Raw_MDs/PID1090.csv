@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1090,Brian Kline,28,Female,IPD,New York,Diabetes,Metformin,Gallbladder removal,2022-11-02,Paid,Aetna,Latex,Annual,Normal,Abnormality,,,Delayed recovery,Partial

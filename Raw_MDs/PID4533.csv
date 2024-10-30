@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4533,Andrew Bennett,65,Male,OPD,Chicago,Thyroid disorder,Ibuprofen,Gallbladder removal,2023-07-03,Unpaid,Cigna,Iodine,Quarterly,Low,Normal,,,Delayed recovery,Full

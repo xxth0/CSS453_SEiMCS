@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4492,Carolyn Berg,62,Male,OPD,Los Angeles,Hypertension,Ibuprofen,Thyroidectomy,2023-08-20,Pending,Cigna,Peanuts,Quarterly,Elevated,Normal,Inconclusive,2020-09-01,None,Full

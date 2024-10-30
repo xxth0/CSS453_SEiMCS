@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1911,Lisa Gates,20,Female,OPD,Chicago,Diabetes,Metformin,None,2022-12-03,Unpaid,Aetna,Iodine,Quarterly,Normal,Abnormality,,,Infection,Ongoing

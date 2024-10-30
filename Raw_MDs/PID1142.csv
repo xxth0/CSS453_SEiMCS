@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1142,Michelle House,32,Male,OPD,Phoenix,Hypertension,Ibuprofen,Appendectomy,2024-09-20,Paid,Humana,Iodine,Annual,Elevated,Fracture,Inconclusive,,Delayed recovery,Partial

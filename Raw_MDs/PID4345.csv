@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+4345,Trevor Johnson,25,Other,IPD,Houston,Diabetes,Lisinopril,Thyroidectomy,2023-04-16,Pending,UnitedHealthcare,None,Biannual,Elevated,Abnormality,,2023-02-04,Infection,Ongoing

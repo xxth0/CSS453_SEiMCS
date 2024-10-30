@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3188,Katherine Estrada,78,Female,OPD,Chicago,Arthritis,Ibuprofen,None,2023-01-12,Paid,Humana,Penicillin,Annual,Elevated,Fracture,,,None,Ongoing

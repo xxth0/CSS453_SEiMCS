@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+3634,Kristina Tran,64,Female,OPD,Phoenix,Hypertension,Ibuprofen,Appendectomy,2023-12-15,Pending,Aetna,Iodine,Annual,Normal,Abnormality,,2021-12-13,Delayed recovery,Partial

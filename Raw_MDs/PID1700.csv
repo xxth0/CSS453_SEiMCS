@@ -1,0 +1,2 @@
+Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
+1700,Kevin Whitney,80,Female,IPD,Phoenix,Asthma,Ibuprofen,None,2023-02-04,Unpaid,UnitedHealthcare,Iodine,Biannual,Low,Abnormality,,2018-12-05,None,Full
