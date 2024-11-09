@@ -49,5 +49,5 @@ def search_keyword(keyword):
     return results
 
 # Example usage: Searching for "Michael Smith" should return {'Name': ['']}
-search_results = search_keyword("Michael Smith")
+search_results = search_keyword("Latex")
 print(search_results)
