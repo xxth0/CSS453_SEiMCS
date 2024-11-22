@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Code"
+    "\\contracts",
+    "\\Web App",
+    "\\Web App\\templates"
   ],
-  "SelectedNode": "\\Code",
+  "SelectedNode": "\\Web App\\templates\\resultslocal.html",
   "PreviewInSolutionExplorer": false
 }

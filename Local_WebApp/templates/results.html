@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Results for "{{ keyword }}"</h1>
+    {% if results %}
+    <p>The following Patient IDs and their corresponding CIDs were found:</p>
+    <ul>
+        {% for patient_id, cid in results.items() %}
+        <li>
+            <strong>Patient ID:</strong> {{ patient_id }}<br>
+            <strong>CID:</strong> {{ cid if cid else "Not Found" }}
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No results found for "{{ keyword }}".</p>
+    {% endif %}
+    <a href="/">Back to Search</a>
+</body>
+</html>
