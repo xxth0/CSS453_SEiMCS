@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .login-container {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      max-width: 360px;
+      width: 100%;
+      text-align: center;
+    }
+    .login-container h1 {
+      font-size: 24px;
+      color: #000;
+      margin-bottom: 20px;
+    }
+    .form-group {
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    .form-group label {
+      font-size: 14px;
+      color: #555;
+      display: block;
+      margin-bottom: 6px;
+    }
+    .form-group input {
+      width: 100%;
+      padding: 12px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-sizing: border-box;
+    }
+    .form-group button {
+      width: 100%;
+      padding: 12px;
+      background-color: green;
+      border: none;
+      color: white;
+      font-size: 16px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .form-group button:hover {
+      background-color: darkgreen;
+    }
+    .message {
+      margin-top: 20px;
+      font-size: 14px;
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h1>Login</h1>
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" id="username" placeholder="Enter your username" required>
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" placeholder="Enter your password" required>
+    </div>
+    <div class="form-group">
+      <button id="loginButton">Login</button>
+    </div>
+    <div class="message" id="message"></div>
+  </div>
+
+  <script>
+    // Array of valid users
+    const validCredentials = [
+      { username: 'testuser', password: 'password123' },
+      { username: 'admin', password: 'admin123' },
+      { username: 'guest', password: 'guest123' },
+      { username: 'user1', password: 'userpass1' },
+      { username: 'user2', password: 'userpass2' }
+    ];
+
+    const loginButton = document.getElementById('loginButton');
+    const messageDiv = document.getElementById('message');
+    const usernameInput = document.getElementById('username');
+    const passwordInput = document.getElementById('password');
+
+    // Login function
+    function login() {
+      const username = usernameInput.value;
+      const password = passwordInput.value;
+
+      // Check if credentials match any user in the list
+      const user = validCredentials.find(user => user.username === username && user.password === password);
+
+      if (user) {
+        messageDiv.style.color = 'green';
+        messageDiv.textContent = 'Login successful! Redirecting...';
+        setTimeout(() => {
+          window.location.href = 'welcome.html';  // Replace with the actual page you want to redirect to
+        }, 2000);
+      } else {
+        messageDiv.style.color = 'red';
+        messageDiv.textContent = 'Invalid username or password.';
+      }
+    }
+
+    // Trigger login when the button is clicked
+    loginButton.addEventListener('click', login);
+
+    // Trigger login when the "Enter" key is pressed
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') {
+        login();
+      }
+    });
+  </script>
+</body>
+</html>
