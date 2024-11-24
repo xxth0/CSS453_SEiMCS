@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, flash, send_file, jsonify, request, url_for, send_from_directory, redirect
+from flask import Flask, request, render_template, flash, session, send_file, jsonify, request, url_for, send_from_directory, redirect
 from fuzzywuzzy import fuzz
 from werkzeug.utils import secure_filename
 import requests
@@ -26,18 +26,22 @@ if not web3.is_connected():
     raise Exception("Failed to connect to Ganache")
 print("Connected to Blockchain")
 
-# Contract Details
-contract_address = "0xB48A780AE836f7664Ed7Dc4842b5E1CdB2B1EF2A"
-abi_file_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\build\contracts\StoreCIDs.json"
+# Smart Contract Details
+search_abi_file_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\build\contracts\StoreCIDs.json"
+with open(search_abi_file_path, "r") as abi_file:
+    search_contract_abi = json.load(abi_file)["abi"]
+search_contract_address = "0xA6c087338F11b08DD39c2765e89BEA083057167F"  # Replace with your contract address
+search_contract = web3.eth.contract(address=search_contract_address, abi=search_contract_abi)
 
 # Load ABI
-with open(abi_file_path, "r") as abi_file:
-    contract_abi = json.load(abi_file)["abi"]
-
-contract = web3.eth.contract(address=contract_address, abi=contract_abi)
+auth_abi_file_path = r"C:/Users/WINDOWS/Documents/CSS453_SEiMCS/build/contracts/AuthContract.json"
+with open(auth_abi_file_path, "r") as abi_file:
+    auth_contract_abi = json.load(abi_file)["abi"]
+auth_contract_address = "0x023232ca2255642eF3A181D92384aE0e6fbfadfF"
+auth_contract = web3.eth.contract(address=auth_contract_address, abi=auth_contract_abi)
 
 # Path to auxiliary indexes
-auxiliary_path = "C:/Users/WINDOWS/Documents/CSS453_SEiMCS/Auxiliary_Tree"
+auxiliary_path = "C:/Users/WINDOWS/Documents/CSS453_SEiMCS/Auxiliary_Tree_Hashed"
 
 # Define directories for temporary file storage
 UPLOAD_FOLDER = 'uploads'
@@ -47,6 +51,44 @@ os.makedirs(DECRYPTED_FOLDER, exist_ok=True)
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['DECRYPTED_FOLDER'] = DECRYPTED_FOLDER
+
+def generate_rsa_key_pair():
+    key = RSA.generate(2048)
+    return key.publickey(), key
+
+def generate_trapdoor(user_credentials, pub_key):
+    cipher_rsa = PKCS1_OAEP.new(pub_key)
+    return cipher_rsa.encrypt(user_credentials.encode('utf-8'))
+
+# Function to hash passwords using Keccak (same as Solidity)
+def hash_password(password):
+    return Web3.solidity_keccak(['string'], [password])
+
+# Function to authenticate user by interacting with the smart contract
+def authenticate_user(user_address, password):
+    try:
+        # Hash the password
+        password_hash = hash_password(password)
+        app.logger.debug(f"Generated Password Hash: {password_hash}")
+
+        # Retrieve stored hash from the smart contract
+        stored_hash = auth_contract.functions.getStoredHash(user_address).call()
+        app.logger.debug(f"Stored Password Hash: {stored_hash}")
+
+        # Check if hashes match
+        if stored_hash == password_hash:
+            app.logger.debug("Hashes match! Proceeding to smart contract authentication...")
+
+            # Call the authenticate function in the smart contract
+            authenticated = auth_contract.functions.authenticate(user_address, password_hash).call()
+            app.logger.debug(f"Authentication Result from Smart Contract: {authenticated}")
+            return authenticated
+        else:
+            app.logger.error("Hashes do NOT match!")
+            return False
+    except Exception as e:
+        app.logger.error(f"Error during authentication: {e}")
+        return False
 
 # AES utility functions
 def get_aes_key(user_key):
@@ -91,7 +133,7 @@ def hash_pid(pid):
 # Function to retrieve CID for a hashed PID
 def get_cid(hashed_pid):
     try:
-        return contract.functions.getCID(hashed_pid).call()
+        return search_contract.functions.getCID(hashed_pid).call()
     except Exception as e:
         print(f"Error querying CID for hashed PID: {hashed_pid} -> {e}")
         return None
@@ -102,29 +144,100 @@ def search_pids_in_range(start, end):
     range_pids = [str(pid) for pid in range(int(start), int(end) + 1)]
     return range_pids
 
+def hash_keyword(keyword):
+    return hashlib.sha256(keyword.encode()).hexdigest()
+
+# Updated search_auxiliary function
 def search_auxiliary(keywords):
     results = None  # Initialize as None to compute intersection
     for filename in os.listdir(auxiliary_path):
-        if filename.endswith("_Aux_Index.txt"):
+        if filename.endswith(".txt"):
             with open(os.path.join(auxiliary_path, filename), 'r') as file:
                 lines = file.readlines()
                 for keyword in keywords:
+                    hashed_keyword = hash_keyword(keyword)  # Hash the input keyword
                     for i, line in enumerate(lines):
-                        if fuzz.partial_ratio(keyword.lower(), line.strip().lower()) > 80:  # Adjust threshold as needed
-                            pids = set(lines[i + 1].strip().split(", "))
-                            if results is None:
-                                results = pids  # Initialize the intersection set
-                            else:
-                                results &= pids  # Intersect with existing results
+                        if hashed_keyword in line:  # Match hashed keyword
+                            # The next line contains the PIDs
+                            if i + 1 < len(lines):
+                                pids = set(lines[i + 1].strip().split(", "))
+                                if results is None:
+                                    results = pids  # Initialize the intersection set
+                                else:
+                                    results &= pids  # Intersect with existing results
                             break
     return results or set()  # Return an empty set if no matches are found
 
-@app.route('/')
-def home():
-    return render_template('index.html')
+
+# Log incoming JSON requests
+@app.before_request
+def log_request_info():
+    if request.is_json:
+        app.logger.debug(f"Incoming JSON: {request.json}")
+    else:
+        app.logger.debug(f"Incoming Form Data: {request.form}")
+
+
+# Login route
+@app.route("/", methods=["GET", "POST"])
+def login():
+    if request.method == "POST":
+        try:
+            # Parse input data
+            if request.is_json:
+                data = request.json
+                username = data.get("username")
+                password = data.get("password")
+            else:
+                username = request.form.get("username")
+                password = request.form.get("password")
+
+            app.logger.debug(f"Login attempt - Username: {username}, Password: [HIDDEN]")
+
+            # Validate input
+            if not username or not password:
+                return jsonify({"success": False, "message": "Username and password are required"}), 400
+
+            # Validate Ethereum address format
+            try:
+                user_address = web3.to_checksum_address(username)
+            except ValueError:
+                return jsonify({"success": False, "message": "Invalid Ethereum address format"}), 400
+
+            # Authenticate user
+            is_authenticated = authenticate_user(user_address, password)
+            if is_authenticated:
+                # Set session variable on successful login
+                session["username"] = user_address
+                app.logger.debug(f"Session set for user: {session['username']}")
+                return jsonify({"success": True, "message": "Authentication successful", "redirect": "/main"}), 200
+            else:
+                return jsonify({"success": False, "message": "Invalid credentials. Please try again."}), 401
+
+        except Exception as e:
+            app.logger.error(f"Exception during login: {e}")
+            return jsonify({"success": False, "message": "An error occurred. Please try again."}), 500
+
+    # Render the login page for GET requests
+    return render_template("index.html")
+
+
+@app.route("/logout")
+def logout():
+    session.clear()
+    return redirect("/")
+
+
+@app.route("/main")
+def main():
+    if "username" not in session:
+        return redirect("/")
+    return render_template("main.html", username=session["username"])
 
 @app.route('/download', methods=['GET'])
 def download_file():
+    if "username" not in session:
+        return redirect("/")
     cid = request.args.get('cid')
     if not cid:
         app.logger.error("CID is required but not provided.")
@@ -181,6 +294,8 @@ def download_file():
 
 @app.route('/search', methods=['POST'])
 def search():
+    if "username" not in session:
+        return redirect("/")
     try:
         # Log the received encrypted query
         encrypted_query = request.form['query']
@@ -197,11 +312,11 @@ def search():
         # Validate decrypted inputs
         if not decrypted_query.strip():
             flash("Search query cannot be empty. Please provide a valid keyword or PID.", "error")
-            return render_template('index.html')
+            return render_template('main.html')
 
         if all(not item.isnumeric() and len(item) < 3 for item in inputs):
             flash("Please enter valid keywords (at least 3 characters) or numeric PIDs.", "error")
-            return render_template('index.html')
+            return render_template('main.html')
 
         start_time = time()
 
@@ -292,10 +407,12 @@ def search():
     except Exception as e:
         app.logger.error(f"Decryption or Processing failed: {str(e)}")
         flash("An error occurred during the search process. Please try again.", "error")
-        return render_template('index.html')
+        return render_template('main.html')
 
 @app.route('/dec', methods=['GET', 'POST'])
 def decrypt():
+    if "username" not in session:
+        return redirect("/")
     if request.method == 'POST':
         try:
             # Get user inputs
@@ -343,6 +460,8 @@ def decrypt():
 
 @app.route('/decrypted/<filename>')
 def download_decrypted_file(filename):
+    if "username" not in session:
+        return redirect("/")
     return send_from_directory(app.config['DECRYPTED_FOLDER'], filename, as_attachment=True)
 
 

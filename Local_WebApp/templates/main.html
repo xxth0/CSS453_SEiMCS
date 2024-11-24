@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decryption Portal</title>
-    <meta name="format-detection" content="telephone=no">
+    <title>Search Portal</title>
     <style>
         /* General styles */
         body {
@@ -66,11 +65,11 @@
             margin-bottom: 10px;
         }
 
-        input[type="file"], input[type="text"], button {
-            width: calc(100% - 20px);
+        input[type="text"] {
+            width: calc(100% - 20px); /* Maintain proper width with padding */
             max-width: 400px;
             padding: 10px;
-            margin: 10px auto;
+            margin: 0 auto 20px;
             border: 1px solid #ddd;
             border-radius: 5px;
             font-size: 14px;
@@ -81,6 +80,8 @@
             background-color: #007bff;
             color: white;
             border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
         }
@@ -94,19 +95,67 @@
             font-weight: bold;
             margin-bottom: 15px;
         }
+
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 12px;
+            color: #555;
+        }
+
+            footer strong {
+                color: #333;
+            }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <script>
+        // Pre-processed encryption key
+        const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
+
+        // Function to encrypt the query using AES
+        function encryptQuery(query, key) {
+            const encrypted = CryptoJS.AES.encrypt(query, key, {
+                mode: CryptoJS.mode.ECB,
+                padding: CryptoJS.pad.Pkcs7
+            });
+            console.log("Query to Encrypt:", query);
+            console.log("Encrypted Base64 String:", encrypted.toString());
+            return encrypted.toString();
+        }
+
+        // Intercept form submission to encrypt the query
+        function handleSearch(event) {
+            event.preventDefault(); // Prevent default form submission
+            console.log("handleSearch function triggered");
+
+            const queryInput = document.getElementById("query");
+            let query = queryInput.value.trim();
+
+            if (!query) {
+                alert("Query cannot be empty.");
+                return;
+            }
+
+            console.log("Query to Encrypt:", query);
+            const encryptedQuery = encryptQuery(query, preProcessedKey);
+            console.log("Encrypted Query (Base64):", encryptedQuery);
+
+            queryInput.value = encryptedQuery; // Replace the plaintext query with the encrypted version
+            document.getElementById("searchForm").submit(); // Submit the form
+        }
+    </script>
 </head>
 <body>
 
     <!-- Navigation Bar -->
     <div class="navbar">
-        <a href="/main">Search</a>
-        <a href="/" class="active">Decrypt</a>
+        <a href="/" class="active">Search</a>
+        <a href="/dec">Decrypt</a>
         <a href="/logout">Logout</a> <!-- Logout tab -->
     </div>
 
     <div class="container">
-        <h1>Decryption Portal</h1>
+        <h1>Search Portal</h1>
 
         <!-- Flash messages -->
         {% with messages = get_flashed_messages(with_categories=true) %}
@@ -119,24 +168,19 @@
         {% endif %}
         {% endwith %}
 
-        <!-- Decryption Form -->
-        <form action="/dec" method="post" enctype="multipart/form-data">
-            <label for="key">Enter Decryption Key:</label>
-            <input type="text" id="key" name="key" placeholder="Enter your key" required>
-            <label for="file">Upload Encrypted File:</label>
-            <input type="file" id="file" name="file" accept=".dat" required>
-            <button type="submit">Decrypt</button>
+        <!-- Search Form -->
+        <form id="searchForm" action="/search" method="post" onsubmit="handleSearch(event)">
+            <label for="query">Enter Keywords or PIDs (comma-separated):</label>
+            <input type="text" id="query" name="query" value="{{ original_query or '' }}" required>
+            <button type="submit">Search</button>
         </form>
-
-        {% if decrypted_file %}
-        <p>Decryption Successful!</p>
-        <a href="{{ decrypted_file }}" class="btn btn-primary">Download Decrypted File</a>
-        {% endif %}
     </div>
 
-    <!-- Footer for the decryption key -->
     <footer>
-        <p><strong>Decryption Key for Demonstration:</strong> <span class="key">11111111111</span></p>
+        <p><strong>&#x1F97A; Group 6:</strong> Searchable Encryption in mobile cloud setting &#x1F510;&#x2601;</p>
+        <p><strong>Members</strong></p>
+        <p>6422772077, 6422780138, 6422780674</p>
+        <p>&#x1F680;<a href="https://github.com/xxth0/CSS453_SEiMCS" target="_blank">https://github.com/xxth0/CSS453_SEiMCS</a></p>
     </footer>
 </body>
 </html>

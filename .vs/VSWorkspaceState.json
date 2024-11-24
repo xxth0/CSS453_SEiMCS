@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Auxiliary_Tree_Hashed",
     "\\build",
     "\\build\\contracts",
+    "\\contracts",
     "\\Local_WebApp",
-    "\\Local_WebApp\\decrypted",
-    "\\Local_WebApp\\templates",
     "\\migrations",
     "\\Old_files",
     "\\Old_files\\Code",
     "\\test"
   ],
-  "SelectedNode": "\\blockchain_script.py",
+  "SelectedNode": "\\Local_WebApp\\appsearchEnc.py",
   "PreviewInSolutionExplorer": false
 }

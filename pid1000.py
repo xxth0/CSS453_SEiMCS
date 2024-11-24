@@ -11,7 +11,7 @@ if not web3.is_connected():
 print("Connected to Ganache")
 
 # Contract details
-contract_address = "0xB48A780AE836f7664Ed7Dc4842b5E1CdB2B1EF2A"
+contract_address = "0xA6c087338F11b08DD39c2765e89BEA083057167F"
 abi_file_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\build\contracts\StoreCIDs.json"
 
 # Load ABI from the specified path
@@ -21,7 +21,7 @@ with open(abi_file_path, "r") as abi_file:
 contract = web3.eth.contract(address=contract_address, abi=contract_abi)
 
 # Private key and account derived from it
-private_key = "0x3d1ca9d4054c218f4e58a7e2e8f7f5339d0ae66041c327b635a1f02dc3be21e4"
+private_key = "0xeda64e1dae3e76d1060075d1a31a919f66dea29f2cf3af1bab60da49f61d248a"
 account = web3.eth.account.from_key(private_key).address
 print(f"Using account: {account}")
 
