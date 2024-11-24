@@ -1,11 +1,3 @@
-Encryption Key: 11111111111
+Run with local ganache, docker, web app for SEiMCs
 
-Encryption Method: AES (Advanced Encryption Standard)
-
-Encryption Mode: ECB (Electronic Codebook)
-
-Padding Scheme: PKCS7 padding (to ensure block size compatibility)
-
-Main Branch: 1000 PIDs
-
-5000-PIDs: 5000 PIDs (Don't merge until testing with 1000 PIDs is completed)
+Part of CSS453 semester project
