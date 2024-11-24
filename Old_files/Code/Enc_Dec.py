@@ -58,7 +58,7 @@ aes_key = get_aes_key(user_key)
 # Paths for testing
 input_file = 'path/to/your/input_file.dat'
 # Put the directory of the encrypted file here
-encrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\Enc_MDs\\00D42EF0220E487EA3C665E3DE0CB701.dat'
+encrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\QmUiD4eam3JNdCJgGpustJ1BYVmV7X7HTNzty9V89s6Kpy'
 # Put the output path and the name of the file here (we can use .CSV)
 decrypted_file = 'C:\\Users\\WINDOWS\\Documents\\CSS453_SEiMCS\\decrypted_file.CSV'
 

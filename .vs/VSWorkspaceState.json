@@ -1,10 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\contracts",
-    "\\Web App",
-    "\\Web App\\templates"
+    "\\build",
+    "\\build\\contracts",
+    "\\Local_WebApp",
+    "\\Local_WebApp\\decrypted",
+    "\\Local_WebApp\\templates",
+    "\\migrations",
+    "\\Old_files",
+    "\\Old_files\\Code",
+    "\\test"
   ],
-  "SelectedNode": "\\Web App\\templates\\resultslocal.html",
+  "SelectedNode": "\\blockchain_script.py",
   "PreviewInSolutionExplorer": false
 }
