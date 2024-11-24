@@ -1,8 +1,13 @@
+from flask import Flask, request, jsonify
+from flask_cors import CORS  # Import the CORS module
 from web3 import Web3
 import hashlib
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 from config import ganache_url, contract_address, contract_abi
+
+app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 # Connect to Ganache
 web3 = Web3(Web3.HTTPProvider(ganache_url))
@@ -24,7 +29,6 @@ def generate_trapdoor(user_credentials, pub_key):
     trapdoor = cipher_rsa.encrypt(user_credentials.encode('utf-8'))  # Encrypt credentials only
     return trapdoor
 
-
 # Step 2: Authenticate User by Calling the Smart Contract
 def authenticate_user(user_address, password):
     # Hash the password
@@ -35,10 +39,8 @@ def authenticate_user(user_address, password):
     
     if authenticated:
         role = contract.functions.getRole(user_address).call()
-        print(f"User authenticated. Role: {role}")
         return True, role
     else:
-        print("Authentication failed.")
         return False, None
 
 # Step 3: Register User in the Smart Contract (for testing)
@@ -47,11 +49,20 @@ def register_user(user_address, password, role):
     contract.functions.registerUser(user_address, password_hash, role).transact({'from': web3.eth.accounts[0]})  # Register user in the smart contract
     print(f"User {role} registered.")
 
-# Main Program to Run Authentication Process
-def main():
-    username = "john_doe"
-    password = "password123"
-    
+@app.route('/authenticate', methods=['POST'])
+def authenticate():
+    data = request.json
+    username = data.get('username')
+    password = data.get('password')
+
+    print(f"Received credentials: Username = {username}, Password = {password}")
+
+    if not username or not password:
+        return jsonify({"success": False, "message": "Username or Password missing."})
+
+    # Use a predefined address for "john_doe" (this could be dynamic in a real system)
+    john_doe_address = "0x16B8920F8478BC60d39e880bF8263d1125bC0Cc5"
+
     # Generate RSA key pair for encryption
     pub_key, priv_key = generate_rsa_key_pair()
 
@@ -60,16 +71,15 @@ def main():
     trapdoor = generate_trapdoor(user_credentials, pub_key)
 
     # Test: Register John Doe as Doctor (for the first time)
-    john_doe_address = "0x16B8920F8478BC60d39e880bF8263d1125bC0Cc5"  # Replace with John Doe's Ethereum address
-    register_user(john_doe_address, password, "Doctor")
+    if username == "john_doe":
+        register_user(john_doe_address, password, "Doctor")
 
-    # Authenticate John Doe via smart contract
     is_valid, role = authenticate_user(john_doe_address, password)
+
     if is_valid:
-        print(f"User authenticated. Role: {role}. Proceeding with search if needed.")
+        return jsonify({"success": True, "role": role})
     else:
-        print("Authentication failed.")
+        return jsonify({"success": False, "message": "Invalid credentials."})
 
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    app.run(debug=True)
