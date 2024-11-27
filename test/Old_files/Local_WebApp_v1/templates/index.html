@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Portal</title>
+    <style>
+        /* General styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .navbar {
+            width: 100%;
+            background-color: #007bff;
+            padding: 10px 0;
+            display: flex;
+            justify-content: center;
+        }
+
+            .navbar a {
+                color: white;
+                text-decoration: none;
+                margin: 0 15px;
+                padding: 10px 20px;
+                border-radius: 5px;
+            }
+
+                .navbar a.active {
+                    background-color: #0056b3;
+                }
+
+                .navbar a:hover {
+                    background-color: #0056b3;
+                }
+
+        .container {
+            text-align: center;
+            max-width: 500px;
+            padding: 30px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+
+        label {
+            font-size: 16px;
+            color: #555;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"] {
+            width: calc(100% - 20px); /* Maintain proper width with padding */
+            max-width: 400px;
+            padding: 10px;
+            margin: 0 auto 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+            display: block;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        .flash-message {
+            color: red;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 12px;
+            color: #555;
+        }
+
+            footer strong {
+                color: #333;
+            }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <script>
+        // Pre-processed encryption key
+        const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
+
+        // Function to encrypt the query using AES
+        function encryptQuery(query, key) {
+            const encrypted = CryptoJS.AES.encrypt(query, key, {
+                mode: CryptoJS.mode.ECB,
+                padding: CryptoJS.pad.Pkcs7
+            });
+            console.log("Query to Encrypt:", query);
+            console.log("Encrypted Base64 String:", encrypted.toString());
+            return encrypted.toString();
+        }
+
+        // Intercept form submission to encrypt the query
+        function handleSearch(event) {
+            event.preventDefault(); // Prevent default form submission
+            console.log("handleSearch function triggered");
+
+            const queryInput = document.getElementById("query");
+            let query = queryInput.value.trim();
+
+            if (!query) {
+                alert("Query cannot be empty.");
+                return;
+            }
+
+            console.log("Query to Encrypt:", query);
+            const encryptedQuery = encryptQuery(query, preProcessedKey);
+            console.log("Encrypted Query (Base64):", encryptedQuery);
+
+            queryInput.value = encryptedQuery; // Replace the plaintext query with the encrypted version
+            document.getElementById("searchForm").submit(); // Submit the form
+        }
+    </script>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a href="/" class="active">Search</a>
+        <a href="/dec">Decrypt</a>
+    </div>
+
+    <div class="container">
+        <h1>Search Portal</h1>
+
+        <!-- Flash messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <div class="flash-message">
+            {% for category, message in messages %}
+            <p>{{ message }}</p>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endwith %}
+
+        <!-- Search Form -->
+        <form id="searchForm" action="/search" method="post" onsubmit="handleSearch(event)">
+            <label for="query">Enter Keywords or PIDs (comma-separated):</label>
+            <input type="text" id="query" name="query" value="{{ original_query or '' }}" required>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <footer>
+        <p><strong>&#x1F97A; Group 6:</strong> Searchable Encryption in mobile cloud setting &#x1F510;&#x2601;</p>
+        <p><strong>Members</strong></p>
+        <p>6422772077, 6422780138, 6422780674</p>
+        <p>&#x1F680;<a href="https://github.com/xxth0/CSS453_SEiMCS" target="_blank">https://github.com/xxth0/CSS453_SEiMCS</a></p>
+    </footer>
+</body>
+</html>

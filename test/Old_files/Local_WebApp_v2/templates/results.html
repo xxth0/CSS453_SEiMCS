@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <style>
+        .copy-btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            margin-left: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .copy-btn:hover {
+                background-color: #0056b3;
+        }
+
+        .download-btn {
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            padding: 5px 10px;
+            margin-left: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+            .download-btn:hover {
+                background-color: #218838;
+            }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 10px;
+            padding: 10px;
+        }
+
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            font-size: 14px;
+            color: #555;
+            text-align: center;
+        }
+
+        .table-container {
+            overflow-x: auto; /* Allow horizontal scrolling for small screens */
+            margin-top: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        .keywords, .search-time {
+            text-align: center;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        .back-link {
+            margin-top: 20px;
+            display: block;
+            text-align: center;
+            font-size: 14px;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .back-link:hover {
+                text-decoration: underline;
+            }
+
+        .error {
+            color: red;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+
+    <script>
+        function copyToClipboard(elementId) {
+            console.log("Attempting to copy CID from element ID:", elementId);
+
+            // Get the text content of the specified element
+            const textToCopy = document.getElementById(elementId)?.textContent;
+
+            if (!textToCopy) {
+                alert("Nothing to copy. CID is empty or invalid.");
+                return;
+            }
+
+            // Copy text to clipboard
+            navigator.clipboard.writeText(textToCopy).then(() => {
+                alert("CID copied to clipboard: " + textToCopy);
+            }).catch(err => {
+                console.error("Failed to copy text: ", err);
+                alert("Failed to copy CID. Please try again.");
+            });
+        }
+    </script>
+</head>
+<body>
+    <h1>Search Results</h1>
+    <p class="keywords"><strong>Search Query:</strong> {{ keywords }}</p>
+    <p class="search-time"><strong>Search Time:</strong> {{ search_time }} seconds</p>
+    <p class="search-time"><strong>Tree Search and PID Retrieval Time:</strong> {{ search_phase_time }} seconds</p>
+    <p class="search-time"><strong>PID Sorting Time:</strong> {{ sort_phase_time }} seconds</p>
+
+
+    {% if not keyword_results.cids and not pid_results %}
+    <p class="error">No results found for your query. Try different keywords or PIDs.</p>
+    {% endif %}
+
+    <!-- Keyword Intersection Results -->
+    {% if keyword_results.cids %}
+    <h2>Keyword Intersection Results</h2>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>PID</th>
+                    <th>CID</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for pid, cid in keyword_results.cids.items() %}
+                <tr>
+                    <td>{{ pid }}</td>
+                    <td>
+                        {% if cid != "N/A" %}
+                        <span id="cid-{{ loop.index }}">{{ cid }}</span>
+                        <button onclick="copyToClipboard('cid-{{ loop.index }}')" class="copy-btn">Copy</button>
+                        <a href="/download?cid={{ cid }}" class="download-btn">Download</a>
+                        {% else %}
+                        <span>N/A</span>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+    <!-- Individual PID Results -->
+    {% if pid_results %}
+    <h2>Individual PID Results</h2>
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>PID</th>
+                    <th>Hashed PID</th>
+                    <th>CID</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for pid, data in pid_results.items() %}
+                <tr>
+                    <td>{{ pid }}</td>
+                    <td>{{ data.hashed_pid }}</td>
+                    <td>
+                        {% if data.cid and data.cid != "N/A" %}
+                        <span id="cid-{{ loop.index }}">{{ data.cid }}</span>
+                        <button onclick="copyToClipboard('cid-{{ loop.index }}')" class="copy-btn">Copy</button>
+                        <a href="/download?cid={{ data.cid }}" class="download-btn">Download</a>
+                        {% else %}
+                        <span>N/A</span>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+
+    <a href="/main" class="back-link">Go Back</a>
+</body>
+</html>
