@@ -109,6 +109,7 @@
     </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script>
+        /*
         // Pre-processed encryption key
         const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
 
@@ -143,6 +144,51 @@
             queryInput.value = encryptedQuery; // Replace the plaintext query with the encrypted version
             document.getElementById("searchForm").submit(); // Submit the form
         }
+        */
+       // List of operators to leave unchanged
+        const operators = ['AND', 'OR', 'NOT'];
+
+        // Function to hash a single keyword
+        function hashKeyword(query) {
+            return CryptoJS.SHA256(query).toString(CryptoJS.enc.Base64); // Hashing and converting to Base64
+        }
+
+        // Function to process the query and hash only the keywords
+        function handleSearch(event) {
+            event.preventDefault(); // Prevent default form submission
+            console.log("handleSearch function triggered");
+
+            const queryInput = document.getElementById("query");
+            let query = queryInput.value.trim();
+
+            if (!query) {
+                alert("Query cannot be empty.");
+                return;
+            }
+
+            // Split the query into individual words (assuming space-separated words)
+            const words = query.split(/\s+/);
+
+            // Process each word: hash keywords and leave operators unchanged
+            const processedQuery = words.map(word => {
+                // If the word is an operator, leave it unchanged
+                if (operators.includes(word.toUpperCase())) {
+                    return word;
+                } else {
+                    // Otherwise, hash the word (the keyword)
+                    return hashKeyword(word);
+                }
+            }).join(' '); // Join the processed words back into a string
+
+            console.log("Processed Query (with hashed keywords):", processedQuery);
+
+            // Replace the input value with the processed query
+            queryInput.value = processedQuery;
+
+            // Submit the form after processing the query
+            document.getElementById("searchForm").submit();
+        }
+
     </script>
 </head>
 <body>
