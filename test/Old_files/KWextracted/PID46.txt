@@ -1,8 +1,0 @@
-PID: 46
-Name: Sheila Cochran
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Arthritis
-

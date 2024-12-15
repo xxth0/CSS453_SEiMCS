@@ -1,8 +1,0 @@
-PID: 556
-Name: Thomas Jones
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Arthritis
-

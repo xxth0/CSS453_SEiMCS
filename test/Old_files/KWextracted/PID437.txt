@@ -1,8 +1,0 @@
-PID: 437
-Name: Carrie Joyce
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Arthritis
-

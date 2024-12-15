@@ -1,8 +1,0 @@
-PID: 691
-Name: Monica Chavez
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Diabetes
-

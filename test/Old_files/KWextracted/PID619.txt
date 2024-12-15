@@ -1,8 +1,0 @@
-PID: 619
-Name: Erin Larson
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Asthma
-

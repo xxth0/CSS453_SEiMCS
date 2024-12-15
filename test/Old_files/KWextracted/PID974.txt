@@ -1,8 +1,0 @@
-PID: 974
-Name: Michael Fisher
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

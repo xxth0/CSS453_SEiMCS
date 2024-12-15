@@ -1,8 +1,0 @@
-PID: 547
-Name: Stephanie Cervantes
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Arthritis
-

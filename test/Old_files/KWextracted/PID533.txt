@@ -1,8 +1,0 @@
-PID: 533
-Name: Courtney Stein
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Thyroid disorder
-

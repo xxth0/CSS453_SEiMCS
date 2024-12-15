@@ -1,8 +1,0 @@
-PID: 112
-Name: Erica Whitney
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Asthma
-

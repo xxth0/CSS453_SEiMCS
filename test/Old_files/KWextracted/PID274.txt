@@ -1,8 +1,0 @@
-PID: 274
-Name: Nicholas Vargas
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

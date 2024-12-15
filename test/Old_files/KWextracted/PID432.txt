@@ -1,8 +1,0 @@
-PID: 432
-Name: Julia Parker
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Diabetes
-

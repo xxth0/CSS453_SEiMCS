@@ -1,8 +1,0 @@
-PID: 761
-Name: Michelle Boone
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 484
-Name: Judy Wright
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Diabetes
-

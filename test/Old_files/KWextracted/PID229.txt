@@ -1,8 +1,0 @@
-PID: 229
-Name: Gina Smith
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Hypertension
-

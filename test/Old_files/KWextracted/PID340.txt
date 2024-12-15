@@ -1,8 +1,0 @@
-PID: 340
-Name: Eric Gallegos
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 473
-Name: Jeff Anderson
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

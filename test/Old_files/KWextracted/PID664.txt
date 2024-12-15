@@ -1,8 +1,0 @@
-PID: 664
-Name: Taylor Griffin
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

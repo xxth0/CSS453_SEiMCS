@@ -1,8 +1,0 @@
-PID: 2
-Name: John Reese
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: San Francisco
-Diagnosis: Diabetes
-

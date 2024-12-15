@@ -1,8 +1,0 @@
-PID: 184
-Name: Eric Brown
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Arthritis
-

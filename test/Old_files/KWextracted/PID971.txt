@@ -1,8 +1,0 @@
-PID: 971
-Name: Ronnie Martin
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Asthma
-

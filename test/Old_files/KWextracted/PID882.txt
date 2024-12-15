@@ -1,8 +1,0 @@
-PID: 882
-Name: Destiny West
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Arthritis
-

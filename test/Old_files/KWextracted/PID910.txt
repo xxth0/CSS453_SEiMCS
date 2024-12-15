@@ -1,8 +1,0 @@
-PID: 910
-Name: Kristin Sexton
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Diabetes
-

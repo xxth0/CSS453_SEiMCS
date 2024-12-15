@@ -1,8 +1,0 @@
-PID: 780
-Name: Christina Cruz
-Gender: Other
-Type: OPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Diabetes
-

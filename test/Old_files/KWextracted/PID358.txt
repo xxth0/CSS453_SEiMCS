@@ -1,8 +1,0 @@
-PID: 358
-Name: Christopher Rojas
-Gender: Female
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Diabetes
-

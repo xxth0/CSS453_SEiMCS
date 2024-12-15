@@ -1,8 +1,0 @@
-PID: 136
-Name: Kimberly Johnson
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Arthritis
-

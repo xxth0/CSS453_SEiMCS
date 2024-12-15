@@ -1,8 +1,0 @@
-PID: 356
-Name: Gregory Lopez
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Asthma
-

@@ -1,8 +1,0 @@
-PID: 45
-Name: Nathaniel Winters
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Hypertension
-

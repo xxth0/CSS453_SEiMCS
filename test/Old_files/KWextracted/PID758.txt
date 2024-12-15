@@ -1,8 +1,0 @@
-PID: 758
-Name: Michael Anderson
-Gender: Other
-Type: OPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Thyroid disorder
-

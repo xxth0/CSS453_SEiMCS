@@ -1,8 +1,0 @@
-PID: 350
-Name: Gregory Dawson
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Arthritis
-

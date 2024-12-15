@@ -1,8 +1,0 @@
-PID: 603
-Name: Terry Davis
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Hypertension
-

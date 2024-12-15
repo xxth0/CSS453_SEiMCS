@@ -1,8 +1,0 @@
-PID: 477
-Name: Jade Wade
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Thyroid disorder
-

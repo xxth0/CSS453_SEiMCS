@@ -1,8 +1,0 @@
-PID: 787
-Name: Robert Rodriguez
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Hypertension
-

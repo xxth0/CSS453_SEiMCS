@@ -1,8 +1,0 @@
-PID: 369
-Name: Kristin Torres
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Thyroid disorder
-

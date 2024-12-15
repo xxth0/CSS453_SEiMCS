@@ -1,8 +1,0 @@
-PID: 923
-Name: Susan Lewis
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: New York
-Diagnosis: Diabetes
-

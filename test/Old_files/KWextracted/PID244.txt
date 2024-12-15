@@ -1,8 +1,0 @@
-PID: 244
-Name: Nicholas Pace
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

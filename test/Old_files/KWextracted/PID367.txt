@@ -1,8 +1,0 @@
-PID: 367
-Name: Jeanette Smith
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Thyroid disorder
-

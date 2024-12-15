@@ -1,8 +1,0 @@
-PID: 848
-Name: Thomas Mckee
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Hypertension
-

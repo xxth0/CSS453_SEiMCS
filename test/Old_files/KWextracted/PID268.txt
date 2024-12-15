@@ -1,8 +1,0 @@
-PID: 268
-Name: April Gray
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Asthma
-

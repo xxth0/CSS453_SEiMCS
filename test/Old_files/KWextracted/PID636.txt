@@ -1,8 +1,0 @@
-PID: 636
-Name: Kaitlyn Neal
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 213
-Name: Isabel Clark
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

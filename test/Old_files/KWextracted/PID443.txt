@@ -1,8 +1,0 @@
-PID: 443
-Name: Luis Curry
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Asthma
-

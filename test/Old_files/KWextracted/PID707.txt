@@ -1,8 +1,0 @@
-PID: 707
-Name: Joseph Chavez
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

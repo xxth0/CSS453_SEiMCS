@@ -1,8 +1,0 @@
-PID: 890
-Name: Michael Woods
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Arthritis
-

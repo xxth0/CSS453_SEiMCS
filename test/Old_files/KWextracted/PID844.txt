@@ -1,8 +1,0 @@
-PID: 844
-Name: Keith Hanson
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Hypertension
-

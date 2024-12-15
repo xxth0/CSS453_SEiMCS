@@ -1,8 +1,0 @@
-PID: 66
-Name: Julia Mcpherson
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Diabetes
-

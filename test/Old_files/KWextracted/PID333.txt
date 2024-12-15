@@ -1,8 +1,0 @@
-PID: 333
-Name: Amber Fisher
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Thyroid disorder
-

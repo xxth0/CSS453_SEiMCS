@@ -1,8 +1,0 @@
-PID: 178
-Name: Debra Nguyen
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Hypertension
-

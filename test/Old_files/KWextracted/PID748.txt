@@ -1,8 +1,0 @@
-PID: 748
-Name: Mark Frank
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 983
-Name: Doris Morris
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Diabetes
-

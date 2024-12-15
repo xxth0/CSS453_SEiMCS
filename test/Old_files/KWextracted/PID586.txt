@@ -1,8 +1,0 @@
-PID: 586
-Name: George Gonzalez
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Arthritis
-

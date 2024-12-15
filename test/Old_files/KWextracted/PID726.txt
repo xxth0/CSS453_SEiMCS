@@ -1,8 +1,0 @@
-PID: 726
-Name: Melissa Frederick
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Arthritis
-

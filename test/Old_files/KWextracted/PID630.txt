@@ -1,8 +1,0 @@
-PID: 630
-Name: Michelle Rangel
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 351
-Name: Sherry Ellison
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

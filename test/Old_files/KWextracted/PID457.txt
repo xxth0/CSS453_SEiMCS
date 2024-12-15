@@ -1,8 +1,0 @@
-PID: 457
-Name: Joseph Galvan
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Asthma
-

@@ -1,8 +1,0 @@
-PID: 403
-Name: Zachary Nielsen
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Diabetes
-

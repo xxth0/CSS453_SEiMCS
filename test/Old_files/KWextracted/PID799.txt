@@ -1,8 +1,0 @@
-PID: 799
-Name: Ashlee Anderson
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Hypertension
-

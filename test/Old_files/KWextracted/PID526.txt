@@ -1,8 +1,0 @@
-PID: 526
-Name: Amanda Wagner
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Diabetes
-

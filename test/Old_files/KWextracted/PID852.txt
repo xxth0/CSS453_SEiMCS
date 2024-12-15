@@ -1,8 +1,0 @@
-PID: 852
-Name: Martin Brown
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Asthma
-

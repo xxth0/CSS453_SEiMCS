@@ -1,8 +1,0 @@
-PID: 342
-Name: Barry Valenzuela
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Asthma
-

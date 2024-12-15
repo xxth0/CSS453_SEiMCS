@@ -1,8 +1,0 @@
-PID: 434
-Name: Maurice Richardson
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 746
-Name: Margaret Hayes
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Diabetes
-

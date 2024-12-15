@@ -1,8 +1,0 @@
-PID: 966
-Name: Douglas Novak
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Diabetes
-

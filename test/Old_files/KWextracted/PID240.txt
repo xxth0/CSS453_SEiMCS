@@ -1,8 +1,0 @@
-PID: 240
-Name: Robert Bowen
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Hypertension
-

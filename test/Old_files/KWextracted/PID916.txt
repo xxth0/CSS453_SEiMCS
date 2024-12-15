@@ -1,8 +1,0 @@
-PID: 916
-Name: Debbie Riddle
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Asthma
-

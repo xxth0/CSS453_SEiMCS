@@ -1,8 +1,0 @@
-PID: 433
-Name: Andrew Williams
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Arthritis
-

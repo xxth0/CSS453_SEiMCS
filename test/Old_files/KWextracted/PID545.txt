@@ -1,8 +1,0 @@
-PID: 545
-Name: Frank Ward
-Gender: Other
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 823
-Name: Eric Bennett
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Asthma
-

@@ -1,8 +1,0 @@
-PID: 219
-Name: Jimmy Gonzalez
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Arthritis
-

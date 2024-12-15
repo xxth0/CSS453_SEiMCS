@@ -1,8 +1,0 @@
-PID: 236
-Name: Cindy Miranda
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

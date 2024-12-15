@@ -1,8 +1,0 @@
-PID: 172
-Name: Matthew Edwards
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Asthma
-

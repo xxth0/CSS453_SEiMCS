@@ -1,8 +1,0 @@
-PID: 536
-Name: Jessica Patton
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 14
-Name: Arthur Moore
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Hypertension
-

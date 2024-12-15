@@ -1,8 +1,0 @@
-PID: 615
-Name: Daniel Cabrera
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

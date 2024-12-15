@@ -1,8 +1,0 @@
-PID: 588
-Name: Scott Shields
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Arthritis
-

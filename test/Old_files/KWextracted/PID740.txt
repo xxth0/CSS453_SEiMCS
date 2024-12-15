@@ -1,8 +1,0 @@
-PID: 740
-Name: Caleb King
-Gender: Other
-Type: OPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Diabetes
-

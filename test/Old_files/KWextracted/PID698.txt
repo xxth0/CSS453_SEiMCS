@@ -1,8 +1,0 @@
-PID: 698
-Name: Marissa Martinez
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

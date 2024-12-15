@@ -1,8 +1,0 @@
-PID: 415
-Name: Mariah Olson
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

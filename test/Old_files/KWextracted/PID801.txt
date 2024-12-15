@@ -1,8 +1,0 @@
-PID: 801
-Name: Joanne Winters
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Thyroid disorder
-

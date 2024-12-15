@@ -1,8 +1,0 @@
-PID: 399
-Name: Jordan Jackson
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Arthritis
-

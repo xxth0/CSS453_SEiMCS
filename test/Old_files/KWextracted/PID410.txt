@@ -1,8 +1,0 @@
-PID: 410
-Name: Jennifer Aguilar
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Hypertension
-

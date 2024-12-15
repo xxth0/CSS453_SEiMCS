@@ -1,8 +1,0 @@
-PID: 416
-Name: Christopher Marshall
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Asthma
-

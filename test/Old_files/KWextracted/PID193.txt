@@ -1,8 +1,0 @@
-PID: 193
-Name: Kevin Molina
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

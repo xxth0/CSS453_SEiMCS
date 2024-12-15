@@ -1,8 +1,0 @@
-PID: 756
-Name: Eric Bennett
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 41
-Name: Nancy Sutton
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

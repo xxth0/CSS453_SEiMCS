@@ -1,8 +1,0 @@
-PID: 366
-Name: Joseph Armstrong
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Thyroid disorder
-

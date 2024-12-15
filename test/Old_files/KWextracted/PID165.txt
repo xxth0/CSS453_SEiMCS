@@ -1,8 +1,0 @@
-PID: 165
-Name: Carl Pena
-Gender: Other
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Hypertension
-

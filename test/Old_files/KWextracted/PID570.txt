@@ -1,8 +1,0 @@
-PID: 570
-Name: Courtney Meyer
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Arthritis
-

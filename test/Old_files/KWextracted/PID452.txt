@@ -1,8 +1,0 @@
-PID: 452
-Name: Anthony Gonzalez
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 508
-Name: Jonathan Fox
-Gender: Female
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Diabetes
-

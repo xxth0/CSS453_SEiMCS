@@ -1,8 +1,0 @@
-PID: 947
-Name: Jennifer Richardson
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Asthma
-

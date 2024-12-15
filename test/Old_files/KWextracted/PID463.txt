@@ -1,8 +1,0 @@
-PID: 463
-Name: Mrs. Teresa Nichols
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Asthma
-

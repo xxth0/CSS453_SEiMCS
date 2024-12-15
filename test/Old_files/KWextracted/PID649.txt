@@ -1,8 +1,0 @@
-PID: 649
-Name: Susan Wilson
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Thyroid disorder
-

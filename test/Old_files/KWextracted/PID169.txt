@@ -1,8 +1,0 @@
-PID: 169
-Name: Paul Romero
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Houston
-Diagnosis: Diabetes
-

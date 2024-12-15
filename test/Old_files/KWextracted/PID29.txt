@@ -1,8 +1,0 @@
-PID: 29
-Name: Shawn Hardy
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

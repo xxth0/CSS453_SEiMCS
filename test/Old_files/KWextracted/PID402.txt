@@ -1,8 +1,0 @@
-PID: 402
-Name: Michelle Campbell
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: New York
-Diagnosis: Arthritis
-

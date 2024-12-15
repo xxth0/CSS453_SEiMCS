@@ -1,8 +1,0 @@
-PID: 734
-Name: Ashley Pope
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Asthma
-

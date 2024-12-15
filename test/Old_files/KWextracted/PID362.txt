@@ -1,8 +1,0 @@
-PID: 362
-Name: Aaron Sherman
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Diabetes
-

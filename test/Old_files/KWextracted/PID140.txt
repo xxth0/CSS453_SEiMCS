@@ -1,8 +1,0 @@
-PID: 140
-Name: Christian Bond
-Gender: Other
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Thyroid disorder
-

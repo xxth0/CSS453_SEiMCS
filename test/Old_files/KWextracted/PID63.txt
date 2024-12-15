@@ -1,8 +1,0 @@
-PID: 63
-Name: Benjamin Edwards
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Thyroid disorder
-

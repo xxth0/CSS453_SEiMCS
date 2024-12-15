@@ -1,8 +1,0 @@
-PID: 269
-Name: Johnny Johnson
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 718
-Name: Jaime Davis DDS
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Diabetes
-

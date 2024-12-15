@@ -1,8 +1,0 @@
-PID: 913
-Name: Anthony Perez
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Arthritis
-

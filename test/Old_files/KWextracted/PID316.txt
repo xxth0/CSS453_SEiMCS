@@ -1,8 +1,0 @@
-PID: 316
-Name: Joseph Roy
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Asthma
-

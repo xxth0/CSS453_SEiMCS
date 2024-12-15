@@ -1,8 +1,0 @@
-PID: 99
-Name: Brittany Rogers
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Arthritis
-

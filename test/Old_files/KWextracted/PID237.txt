@@ -1,8 +1,0 @@
-PID: 237
-Name: Andrew Ellison
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Arthritis
-

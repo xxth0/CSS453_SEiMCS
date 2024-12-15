@@ -1,8 +1,0 @@
-PID: 252
-Name: Stephen Phillips
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Thyroid disorder
-

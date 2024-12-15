@@ -1,8 +1,0 @@
-PID: 963
-Name: Jennifer Moore
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Asthma
-

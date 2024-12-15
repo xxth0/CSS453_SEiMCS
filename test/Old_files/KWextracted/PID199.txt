@@ -1,8 +1,0 @@
-PID: 199
-Name: John Davis
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 288
-Name: John Castro
-Gender: Female
-Type: IPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Asthma
-

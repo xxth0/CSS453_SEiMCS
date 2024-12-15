@@ -1,8 +1,0 @@
-PID: 426
-Name: Brandi Strickland
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Arthritis
-

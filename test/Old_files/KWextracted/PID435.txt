@@ -1,8 +1,0 @@
-PID: 435
-Name: Rebecca Hall
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Arthritis
-

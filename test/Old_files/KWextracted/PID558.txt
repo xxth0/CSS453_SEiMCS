@@ -1,8 +1,0 @@
-PID: 558
-Name: Teresa Park
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-

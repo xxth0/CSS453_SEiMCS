@@ -1,8 +1,0 @@
-PID: 521
-Name: Nicole Moore
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Arthritis
-

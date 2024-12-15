@@ -1,8 +1,0 @@
-PID: 322
-Name: Margaret Cantrell
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Asthma
-

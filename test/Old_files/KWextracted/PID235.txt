@@ -1,8 +1,0 @@
-PID: 235
-Name: Robert Scott
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Asthma
-

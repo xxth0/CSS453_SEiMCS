@@ -1,8 +1,0 @@
-PID: 854
-Name: Mr. Dale Evans
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 796
-Name: Cameron Miller
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 407
-Name: Amy Reynolds
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Thyroid disorder
-

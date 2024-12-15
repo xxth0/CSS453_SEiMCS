@@ -1,8 +1,0 @@
-PID: 934
-Name: Ryan Hansen
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Hypertension
-

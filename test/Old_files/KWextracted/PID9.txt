@@ -1,8 +1,0 @@
-PID: 9
-Name: Michael Smith
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Philadelphia
-Diagnosis: Lupus
-

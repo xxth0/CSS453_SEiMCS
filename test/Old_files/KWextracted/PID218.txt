@@ -1,8 +1,0 @@
-PID: 218
-Name: Scott Martinez
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Asthma
-

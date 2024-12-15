@@ -1,8 +1,0 @@
-PID: 794
-Name: Anthony Ashley
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Diabetes
-

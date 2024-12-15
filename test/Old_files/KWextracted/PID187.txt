@@ -1,8 +1,0 @@
-PID: 187
-Name: Glen Perry
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 666
-Name: Kimberly Russell
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Asthma
-

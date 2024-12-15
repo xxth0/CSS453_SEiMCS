@@ -1,8 +1,0 @@
-PID: 837
-Name: Cristian Sanchez
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Asthma
-

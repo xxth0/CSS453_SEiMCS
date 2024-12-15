@@ -1,8 +1,0 @@
-PID: 914
-Name: Michael Mills
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Hypertension
-

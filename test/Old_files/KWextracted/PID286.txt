@@ -1,8 +1,0 @@
-PID: 286
-Name: Deanna Murphy
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Asthma
-

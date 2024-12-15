@@ -1,8 +1,0 @@
-PID: 930
-Name: Haley Wilson
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Arthritis
-

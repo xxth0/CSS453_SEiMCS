@@ -43,7 +43,7 @@
 
         .container {
             text-align: center;
-            max-width: 500px;
+            max-width: 600px;
             padding: 30px;
             background: #fff;
             border: 1px solid #ddd;
@@ -65,15 +65,17 @@
             margin-bottom: 10px;
         }
 
-        input[type="text"] {
-            width: calc(100% - 20px); /* Maintain proper width with padding */
-            max-width: 400px;
-            padding: 10px;
+        textarea {
+            width: calc(100% - 20px);
+            max-width: 100%;
+            padding: 12px;
             margin: 0 auto 20px;
             border: 1px solid #ddd;
             border-radius: 5px;
-            font-size: 14px;
-            display: block;
+            font-size: 16px;
+            resize: vertical; /* Allows vertical resizing */
+            overflow-wrap: break-word; /* Ensures text wraps */
+            min-height: 100px; /* Minimum height for the textarea */
         }
 
         button {
@@ -107,26 +109,10 @@
                 color: #333;
             }
     </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script>
-        // Pre-processed encryption key
-        //const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
-
-        // Function to encrypt the query using AES
-        /*function encryptQuery(query, key) {
-            const encrypted = CryptoJS.AES.encrypt(query, key, {
-                mode: CryptoJS.mode.ECB,
-                padding: CryptoJS.pad.Pkcs7
-            });
-            console.log("Query to Encrypt:", query);
-            console.log("Encrypted Base64 String:", encrypted.toString());
-            return encrypted.toString();
-        }*/
-
-        // Intercept form submission to encrypt the query
+        // Intercept form submission to handle the search
         function handleSearch(event) {
             event.preventDefault(); // Prevent default form submission
-            console.log("handleSearch function triggered");
 
             const queryInput = document.getElementById("query");
             let query = queryInput.value.trim();
@@ -137,10 +123,7 @@
             }
 
             console.log("Query:", query);
-            //const encryptedQuery = encryptQuery(query, preProcessedKey);
-           // console.log("Encrypted Query (Base64):", encryptedQuery);
-
-            queryInput.value = query; // Replace the plaintext query with the encrypted version
+            queryInput.value = query; // Optionally sanitize input
             document.getElementById("searchForm").submit(); // Submit the form
         }
     </script>
@@ -171,7 +154,7 @@
         <!-- Search Form -->
         <form id="searchForm" action="/search" method="post" onsubmit="handleSearch(event)">
             <label for="query">Enter Keywords or PIDs (comma-separated):</label>
-            <input type="text" id="query" name="query" value="{{ original_query or '' }}" required>
+            <textarea id="query" name="query" required>{{ original_query or '' }}</textarea>
             <button type="submit">Search</button>
         </form>
     </div>

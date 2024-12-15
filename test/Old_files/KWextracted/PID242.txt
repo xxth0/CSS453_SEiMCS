@@ -1,8 +1,0 @@
-PID: 242
-Name: Sandra Callahan
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Thyroid disorder
-

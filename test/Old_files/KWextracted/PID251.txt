@@ -1,8 +1,0 @@
-PID: 251
-Name: Leslie Flynn
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Diabetes
-

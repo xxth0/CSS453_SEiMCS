@@ -1,8 +1,0 @@
-PID: 530
-Name: Jeremy Grant
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: New York
-Diagnosis: Thyroid disorder
-

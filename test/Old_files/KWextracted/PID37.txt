@@ -1,8 +1,0 @@
-PID: 37
-Name: Dr. Jessica Cordova
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Hypertension
-

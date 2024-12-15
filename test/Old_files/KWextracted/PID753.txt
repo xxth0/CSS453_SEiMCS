@@ -1,8 +1,0 @@
-PID: 753
-Name: Paul Wiley
-Gender: Female
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Thyroid disorder
-

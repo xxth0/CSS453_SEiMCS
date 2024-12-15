@@ -1,8 +1,0 @@
-PID: 188
-Name: Donald Baker
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Hypertension
-

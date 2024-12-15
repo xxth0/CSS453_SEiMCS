@@ -1,8 +1,0 @@
-PID: 54
-Name: Lisa Brown
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Thyroid disorder
-

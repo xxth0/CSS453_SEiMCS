@@ -1,8 +1,0 @@
-PID: 834
-Name: Derek Salazar
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Hypertension
-

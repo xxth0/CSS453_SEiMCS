@@ -1,8 +1,0 @@
-PID: 208
-Name: Michelle Berger
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Arthritis
-

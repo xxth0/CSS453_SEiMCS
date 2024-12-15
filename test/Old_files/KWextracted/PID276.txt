@@ -1,8 +1,0 @@
-PID: 276
-Name: Jennifer Sandoval
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Asthma
-

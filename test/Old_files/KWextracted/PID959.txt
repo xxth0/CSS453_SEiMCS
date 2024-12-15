@@ -1,8 +1,0 @@
-PID: 959
-Name: Katherine Smith
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 679
-Name: Stephen Stanley
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Thyroid disorder
-

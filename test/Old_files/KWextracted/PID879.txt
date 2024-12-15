@@ -1,8 +1,0 @@
-PID: 879
-Name: Kelly Rivers
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 436
-Name: Rebecca Smith
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Hypertension
-

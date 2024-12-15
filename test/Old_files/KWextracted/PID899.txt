@@ -1,8 +1,0 @@
-PID: 899
-Name: Robert Flores
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Arthritis
-

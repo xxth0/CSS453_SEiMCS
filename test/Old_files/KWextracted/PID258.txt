@@ -1,8 +1,0 @@
-PID: 258
-Name: Donald Gould
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Diabetes
-

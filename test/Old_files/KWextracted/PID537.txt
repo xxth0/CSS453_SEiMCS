@@ -1,8 +1,0 @@
-PID: 537
-Name: Shirley Thompson
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Diabetes
-

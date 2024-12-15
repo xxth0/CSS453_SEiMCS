@@ -1,8 +1,0 @@
-PID: 103
-Name: Alicia Andrews
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Thyroid disorder
-

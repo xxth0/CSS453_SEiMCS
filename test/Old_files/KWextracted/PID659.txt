@@ -1,8 +1,0 @@
-PID: 659
-Name: Christopher Wyatt
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Diabetes
-

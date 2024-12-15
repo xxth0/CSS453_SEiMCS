@@ -1,8 +1,0 @@
-PID: 583
-Name: Sherry Mitchell
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Hypertension
-

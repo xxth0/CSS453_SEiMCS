@@ -1,8 +1,0 @@
-PID: 215
-Name: Lee Knight
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Arthritis
-

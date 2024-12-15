@@ -1,8 +1,0 @@
-PID: 460
-Name: Jamie Swanson
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Asthma
-

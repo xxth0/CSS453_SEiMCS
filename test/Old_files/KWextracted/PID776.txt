@@ -1,8 +1,0 @@
-PID: 776
-Name: Caroline Hughes
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Arthritis
-

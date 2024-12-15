@@ -1,8 +1,0 @@
-PID: 851
-Name: Misty Schmidt
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 17
-Name: Elizabeth Schmitt
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Houston
-Diagnosis: Asthma
-

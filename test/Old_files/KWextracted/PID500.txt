@@ -1,8 +1,0 @@
-PID: 500
-Name: Barbara Norris
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Asthma
-

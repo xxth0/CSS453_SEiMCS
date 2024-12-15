@@ -1,8 +1,0 @@
-PID: 925
-Name: Kim Walters
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 481
-Name: Thomas Murphy
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 800
-Name: Mary Harris
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Diabetes
-

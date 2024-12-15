@@ -1,8 +1,0 @@
-PID: 517
-Name: Lindsay Torres
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Hypertension
-

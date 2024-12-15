@@ -1,8 +1,0 @@
-PID: 868
-Name: Angela Williamson
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Arthritis
-

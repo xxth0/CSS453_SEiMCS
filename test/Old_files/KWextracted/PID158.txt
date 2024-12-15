@@ -1,8 +1,0 @@
-PID: 158
-Name: Cynthia Gordon
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Asthma
-

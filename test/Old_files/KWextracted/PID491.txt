@@ -1,8 +1,0 @@
-PID: 491
-Name: Angela Bradley
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Hypertension
-

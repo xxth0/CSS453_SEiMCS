@@ -1,8 +1,0 @@
-PID: 496
-Name: William Brown
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

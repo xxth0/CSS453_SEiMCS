@@ -1,8 +1,0 @@
-PID: 861
-Name: Jacqueline Calderon
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Hypertension
-

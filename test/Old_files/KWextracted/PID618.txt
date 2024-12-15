@@ -1,8 +1,0 @@
-PID: 618
-Name: Matthew Boyle
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 921
-Name: Victoria Jones
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Asthma
-

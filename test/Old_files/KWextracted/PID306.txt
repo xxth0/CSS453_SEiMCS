@@ -1,8 +1,0 @@
-PID: 306
-Name: Anita Martin
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Asthma
-

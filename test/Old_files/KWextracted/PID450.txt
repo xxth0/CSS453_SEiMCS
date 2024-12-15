@@ -1,8 +1,0 @@
-PID: 450
-Name: Morgan Buchanan
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Asthma
-

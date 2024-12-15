@@ -1,8 +1,0 @@
-PID: 449
-Name: Brian Reeves
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Diabetes
-

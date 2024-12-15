@@ -1,8 +1,0 @@
-PID: 759
-Name: Megan Long
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 675
-Name: Christopher Brown
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

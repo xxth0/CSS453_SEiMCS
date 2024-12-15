@@ -1,8 +1,0 @@
-PID: 569
-Name: Brandon Le
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Arthritis
-

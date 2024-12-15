@@ -1,8 +1,0 @@
-PID: 673
-Name: Joshua Santiago
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Diabetes
-

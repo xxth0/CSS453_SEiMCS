@@ -1,8 +1,0 @@
-PID: 703
-Name: Reginald Young
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Asthma
-

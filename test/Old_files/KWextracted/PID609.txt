@@ -1,8 +1,0 @@
-PID: 609
-Name: Evan Moore
-Gender: Male
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Hypertension
-

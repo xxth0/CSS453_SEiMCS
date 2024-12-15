@@ -1,8 +1,0 @@
-PID: 439
-Name: Brenda Hess
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Thyroid disorder
-

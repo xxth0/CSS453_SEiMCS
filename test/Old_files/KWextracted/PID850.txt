@@ -1,8 +1,0 @@
-PID: 850
-Name: Monica Jones
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: New York
-Diagnosis: Asthma
-

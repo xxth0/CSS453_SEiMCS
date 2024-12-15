@@ -1,8 +1,0 @@
-PID: 414
-Name: Stephen Townsend
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Diabetes
-

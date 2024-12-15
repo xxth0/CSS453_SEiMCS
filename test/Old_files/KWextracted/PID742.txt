@@ -1,8 +1,0 @@
-PID: 742
-Name: Jeffrey Skinner
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Thyroid disorder
-

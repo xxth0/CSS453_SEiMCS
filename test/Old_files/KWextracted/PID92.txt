@@ -1,8 +1,0 @@
-PID: 92
-Name: Arthur Lynch
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: New York
-Diagnosis: Asthma
-

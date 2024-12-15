@@ -1,8 +1,0 @@
-PID: 525
-Name: Brittany Soto
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Thyroid disorder
-

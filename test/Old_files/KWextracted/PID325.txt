@@ -1,8 +1,0 @@
-PID: 325
-Name: Joanna Logan
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Diabetes
-

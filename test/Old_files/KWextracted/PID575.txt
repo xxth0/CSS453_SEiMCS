@@ -1,8 +1,0 @@
-PID: 575
-Name: Jermaine Padilla
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Asthma
-

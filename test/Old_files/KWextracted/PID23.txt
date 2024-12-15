@@ -1,8 +1,0 @@
-PID: 23
-Name: Cynthia Smith MD
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Diabetes
-

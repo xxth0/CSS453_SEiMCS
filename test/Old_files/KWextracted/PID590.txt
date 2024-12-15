@@ -1,8 +1,0 @@
-PID: 590
-Name: Misty David
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Arthritis
-

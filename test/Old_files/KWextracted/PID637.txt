@@ -1,8 +1,0 @@
-PID: 637
-Name: Joseph Houston
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Asthma
-

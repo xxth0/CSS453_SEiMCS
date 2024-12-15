@@ -1,8 +1,0 @@
-PID: 515
-Name: Elizabeth Bowman
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Hypertension
-

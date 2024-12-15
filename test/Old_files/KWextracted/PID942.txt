@@ -1,8 +1,0 @@
-PID: 942
-Name: Diana Dean
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Hypertension
-

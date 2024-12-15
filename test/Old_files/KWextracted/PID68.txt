@@ -1,8 +1,0 @@
-PID: 68
-Name: Tony Ferrell
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Asthma
-

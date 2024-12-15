@@ -1,8 +1,0 @@
-PID: 397
-Name: Kimberly Henderson
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Diabetes
-

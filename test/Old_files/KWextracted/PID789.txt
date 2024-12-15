@@ -1,8 +1,0 @@
-PID: 789
-Name: Dana Oneal DDS
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 226
-Name: Fred Young
-Gender: Other
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Asthma
-

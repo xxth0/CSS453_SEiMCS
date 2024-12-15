@@ -1,2 +1,0 @@
-Patient ID,Name,Age,Gender,Type,Region,Diagnosis,Medications,Surgery History,Last Visit,Billing Status,Insurance Provider,Allergies,Check-Up History,Blood Tests,X-rays,MRIs,Dates of Surgery,Complications,Recovery Status
-315,Emily Acevedo,42,Male,OPD,Los Angeles,Hypertension,Ibuprofen,None,2022-12-12,Pending,Humana,Peanuts,Biannual,Elevated,Fracture,Normal,2021-08-27,Delayed recovery,Partial

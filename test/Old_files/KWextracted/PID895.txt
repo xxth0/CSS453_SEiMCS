@@ -1,8 +1,0 @@
-PID: 895
-Name: Destiny Clark
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Asthma
-

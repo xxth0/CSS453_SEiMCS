@@ -1,8 +1,0 @@
-PID: 339
-Name: Mrs. Julie Farrell
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: New York
-Diagnosis: Hypertension
-

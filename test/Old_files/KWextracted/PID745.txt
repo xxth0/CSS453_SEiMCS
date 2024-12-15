@@ -1,8 +1,0 @@
-PID: 745
-Name: Sarah Jones
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 224
-Name: Jessica Bailey
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Asthma
-

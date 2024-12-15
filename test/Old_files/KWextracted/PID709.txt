@@ -1,8 +1,0 @@
-PID: 709
-Name: Norma Hardin
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Asthma
-

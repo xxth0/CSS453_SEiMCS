@@ -1,8 +1,0 @@
-PID: 314
-Name: Kevin Mcgee
-Gender: Male
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 197
-Name: Samantha Malone
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Hypertension
-

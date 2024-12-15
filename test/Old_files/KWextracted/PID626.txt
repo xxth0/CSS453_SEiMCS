@@ -1,8 +1,0 @@
-PID: 626
-Name: Brenda Gibson
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Arthritis
-

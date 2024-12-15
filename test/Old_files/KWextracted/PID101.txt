@@ -1,8 +1,0 @@
-PID: 101
-Name: Loretta Potter
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

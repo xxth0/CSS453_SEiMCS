@@ -1,8 +1,0 @@
-PID: 507
-Name: Stephen Davis
-Gender: Other
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 541
-Name: Daniel Fritz
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Los Angeles
-Diagnosis: Hypertension
-

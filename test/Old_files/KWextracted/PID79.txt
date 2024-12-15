@@ -1,8 +1,0 @@
-PID: 79
-Name: Sharon Reid
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Hypertension
-

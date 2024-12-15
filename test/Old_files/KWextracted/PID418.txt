@@ -1,8 +1,0 @@
-PID: 418
-Name: Natalie Brewer
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Asthma
-

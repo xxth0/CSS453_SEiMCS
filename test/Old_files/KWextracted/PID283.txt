@@ -1,8 +1,0 @@
-PID: 283
-Name: Tonya Sherman
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Diabetes
-

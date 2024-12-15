@@ -1,8 +1,0 @@
-PID: 490
-Name: Jacqueline Johnson
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Hypertension
-

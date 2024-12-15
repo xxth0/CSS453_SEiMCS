@@ -1,8 +1,0 @@
-PID: 456
-Name: Bradley Jackson
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Thyroid disorder
-

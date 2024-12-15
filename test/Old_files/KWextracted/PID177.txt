@@ -1,8 +1,0 @@
-PID: 177
-Name: Amanda James
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Diabetes
-

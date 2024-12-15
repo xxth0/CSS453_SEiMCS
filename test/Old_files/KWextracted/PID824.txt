@@ -1,8 +1,0 @@
-PID: 824
-Name: Crystal Flores
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Houston
-Diagnosis: Hypertension
-

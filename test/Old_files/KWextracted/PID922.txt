@@ -1,8 +1,0 @@
-PID: 922
-Name: Eric Murphy
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Asthma
-

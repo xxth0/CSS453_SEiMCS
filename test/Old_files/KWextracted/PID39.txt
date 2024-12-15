@@ -1,8 +1,0 @@
-PID: 39
-Name: Jesse Parks
-Gender: Female
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Thyroid disorder
-

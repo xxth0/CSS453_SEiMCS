@@ -1,8 +1,0 @@
-PID: 227
-Name: Robert Thompson
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Asthma
-

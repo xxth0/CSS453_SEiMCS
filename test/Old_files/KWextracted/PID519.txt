@@ -1,8 +1,0 @@
-PID: 519
-Name: Mary Barron
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Asthma
-

@@ -1,8 +1,0 @@
-PID: 829
-Name: Kelly Morgan
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Asthma
-

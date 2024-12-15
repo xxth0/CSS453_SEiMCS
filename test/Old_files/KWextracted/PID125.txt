@@ -1,8 +1,0 @@
-PID: 125
-Name: Dennis Roman
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Arthritis
-

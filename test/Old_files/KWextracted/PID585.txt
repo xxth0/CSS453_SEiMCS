@@ -1,8 +1,0 @@
-PID: 585
-Name: Linda Carey
-Gender: Male
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 464
-Name: Jill Brown
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Asthma
-

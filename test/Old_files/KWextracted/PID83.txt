@@ -1,8 +1,0 @@
-PID: 83
-Name: Bobby Gomez
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Arthritis
-

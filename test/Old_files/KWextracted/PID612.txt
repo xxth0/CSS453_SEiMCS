@@ -1,8 +1,0 @@
-PID: 612
-Name: Anna Powell
-Gender: Other
-Type: IPD
-Allergies: Latex
-Region: New York
-Diagnosis: Hypertension
-

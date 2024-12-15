@@ -1,8 +1,0 @@
-PID: 755
-Name: Charles Jones
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 503
-Name: Mark Gonzales
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Houston
-Diagnosis: Diabetes
-

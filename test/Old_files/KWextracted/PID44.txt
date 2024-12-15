@@ -1,8 +1,0 @@
-PID: 44
-Name: Colleen Reed
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Hypertension
-

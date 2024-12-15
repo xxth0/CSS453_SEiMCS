@@ -1,8 +1,0 @@
-PID: 408
-Name: Valerie Alvarez DVM
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Diabetes
-

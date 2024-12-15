@@ -1,8 +1,0 @@
-PID: 863
-Name: Nicholas Edwards
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 298
-Name: Kristen Gallagher
-Gender: Other
-Type: OPD
-Allergies: nan
-Region: Phoenix
-Diagnosis: Asthma
-

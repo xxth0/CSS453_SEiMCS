@@ -1,8 +1,0 @@
-PID: 912
-Name: Elaine Roberson
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

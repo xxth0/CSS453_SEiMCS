@@ -1,8 +1,0 @@
-PID: 520
-Name: Kiara Anderson
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Diabetes
-

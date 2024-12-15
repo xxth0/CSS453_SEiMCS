@@ -1,8 +1,0 @@
-PID: 751
-Name: Ariel Schmidt
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Diabetes
-

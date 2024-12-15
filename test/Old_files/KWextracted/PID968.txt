@@ -1,8 +1,0 @@
-PID: 968
-Name: Sarah Wilson
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Asthma
-

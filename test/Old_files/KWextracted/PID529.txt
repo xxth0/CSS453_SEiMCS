@@ -1,8 +1,0 @@
-PID: 529
-Name: Ashley Martin
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Hypertension
-

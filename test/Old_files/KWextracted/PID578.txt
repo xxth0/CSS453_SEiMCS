@@ -1,8 +1,0 @@
-PID: 578
-Name: Beth Mendoza
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

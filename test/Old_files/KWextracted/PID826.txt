@@ -1,8 +1,0 @@
-PID: 826
-Name: Joseph Hunt
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Los Angeles
-Diagnosis: Hypertension
-

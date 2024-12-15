@@ -1,8 +1,0 @@
-PID: 404
-Name: Nicholas Hernandez
-Gender: Male
-Type: OPD
-Allergies: Iodine
-Region: New York
-Diagnosis: Thyroid disorder
-

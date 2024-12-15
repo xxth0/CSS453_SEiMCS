@@ -1,8 +1,0 @@
-PID: 739
-Name: Latasha Armstrong
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-

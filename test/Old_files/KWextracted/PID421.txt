@@ -1,8 +1,0 @@
-PID: 421
-Name: Andrew Martin
-Gender: Female
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Arthritis
-

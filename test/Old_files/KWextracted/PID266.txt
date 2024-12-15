@@ -1,8 +1,0 @@
-PID: 266
-Name: Andrea Davis
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Arthritis
-

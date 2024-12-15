@@ -1,8 +1,0 @@
-PID: 849
-Name: Heather Fox
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Hypertension
-

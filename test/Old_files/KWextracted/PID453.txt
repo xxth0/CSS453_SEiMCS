@@ -1,8 +1,0 @@
-PID: 453
-Name: Amy Thompson
-Gender: Female
-Type: IPD
-Allergies: Latex
-Region: Houston
-Diagnosis: Arthritis
-

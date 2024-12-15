@@ -1,8 +1,0 @@
-PID: 683
-Name: Donald Hansen
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Asthma
-

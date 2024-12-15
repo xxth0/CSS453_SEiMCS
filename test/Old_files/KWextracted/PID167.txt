@@ -1,8 +1,0 @@
-PID: 167
-Name: Jennifer Gentry
-Gender: Other
-Type: IPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Diabetes
-

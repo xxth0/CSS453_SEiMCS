@@ -1,8 +1,0 @@
-PID: 891
-Name: Judy Anthony
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Diabetes
-

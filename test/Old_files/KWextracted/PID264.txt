@@ -1,8 +1,0 @@
-PID: 264
-Name: Denise Whitney
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Arthritis
-

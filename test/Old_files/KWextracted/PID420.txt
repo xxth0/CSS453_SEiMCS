@@ -1,8 +1,0 @@
-PID: 420
-Name: David Sanders
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: New York
-Diagnosis: Arthritis
-

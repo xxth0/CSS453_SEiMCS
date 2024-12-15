@@ -1,8 +1,0 @@
-PID: 53
-Name: Gregory Martin
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Hypertension
-

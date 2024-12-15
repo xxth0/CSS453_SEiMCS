@@ -1,8 +1,0 @@
-PID: 324
-Name: Dustin Gray
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Chicago
-Diagnosis: Arthritis
-

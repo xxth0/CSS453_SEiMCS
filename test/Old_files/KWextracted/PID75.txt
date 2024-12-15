@@ -1,8 +1,0 @@
-PID: 75
-Name: Monica Gibson
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Asthma
-

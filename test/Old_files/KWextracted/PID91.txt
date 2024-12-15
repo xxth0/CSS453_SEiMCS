@@ -1,8 +1,0 @@
-PID: 91
-Name: Nicholas Williams
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: New York
-Diagnosis: Asthma
-

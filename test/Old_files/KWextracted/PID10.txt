@@ -1,8 +1,0 @@
-PID: 10
-Name: Adam Johnson
-Gender: Male
-Type: OPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Anxiety
-

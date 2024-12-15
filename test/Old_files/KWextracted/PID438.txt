@@ -1,8 +1,0 @@
-PID: 438
-Name: Bryan Francis
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Thyroid disorder
-

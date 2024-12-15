@@ -1,8 +1,0 @@
-PID: 978
-Name: Kelly Sanders
-Gender: Other
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Arthritis
-

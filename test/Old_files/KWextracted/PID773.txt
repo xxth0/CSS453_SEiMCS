@@ -1,8 +1,0 @@
-PID: 773
-Name: Maria Gonzalez
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-

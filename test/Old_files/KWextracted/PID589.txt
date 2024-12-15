@@ -1,8 +1,0 @@
-PID: 589
-Name: Charlotte Vazquez
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Arthritis
-

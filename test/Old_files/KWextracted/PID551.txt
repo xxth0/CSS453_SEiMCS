@@ -1,8 +1,0 @@
-PID: 551
-Name: Sarah Nelson MD
-Gender: Other
-Type: IPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-

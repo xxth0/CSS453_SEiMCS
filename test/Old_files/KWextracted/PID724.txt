@@ -1,8 +1,0 @@
-PID: 724
-Name: Paul Gutierrez
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: Houston
-Diagnosis: Asthma
-

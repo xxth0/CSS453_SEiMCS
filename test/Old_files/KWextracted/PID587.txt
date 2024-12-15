@@ -1,8 +1,0 @@
-PID: 587
-Name: William Navarro
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Chicago
-Diagnosis: Diabetes
-

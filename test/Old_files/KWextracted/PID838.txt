@@ -1,8 +1,0 @@
-PID: 838
-Name: Gina Reynolds
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Thyroid disorder
-

@@ -1,8 +1,0 @@
-PID: 678
-Name: Kirk Davis
-Gender: Male
-Type: IPD
-Allergies: Iodine
-Region: Phoenix
-Diagnosis: Diabetes
-

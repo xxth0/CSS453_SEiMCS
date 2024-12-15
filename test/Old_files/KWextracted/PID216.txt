@@ -1,8 +1,0 @@
-PID: 216
-Name: Donald Berry
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

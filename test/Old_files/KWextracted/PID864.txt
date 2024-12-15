@@ -1,8 +1,0 @@
-PID: 864
-Name: Sarah Beasley
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Chicago
-Diagnosis: Diabetes
-

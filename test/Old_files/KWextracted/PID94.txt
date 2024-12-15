@@ -1,8 +1,0 @@
-PID: 94
-Name: Nicholas Cochran
-Gender: Other
-Type: IPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Diabetes
-

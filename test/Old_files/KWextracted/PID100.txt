@@ -1,8 +1,0 @@
-PID: 100
-Name: Matthew Sheppard
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Phoenix
-Diagnosis: Asthma
-

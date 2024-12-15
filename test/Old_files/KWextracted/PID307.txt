@@ -1,8 +1,0 @@
-PID: 307
-Name: Marie Khan
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Diabetes
-

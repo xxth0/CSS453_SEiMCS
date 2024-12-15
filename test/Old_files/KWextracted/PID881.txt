@@ -1,8 +1,0 @@
-PID: 881
-Name: Christina Wells
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: New York
-Diagnosis: Arthritis
-

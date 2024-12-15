@@ -1,8 +1,0 @@
-PID: 62
-Name: Stephanie Harrison
-Gender: Male
-Type: IPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Diabetes
-

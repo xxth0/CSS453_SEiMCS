@@ -1,8 +1,0 @@
-PID: 305
-Name: Brandon Simmons
-Gender: Female
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Arthritis
-

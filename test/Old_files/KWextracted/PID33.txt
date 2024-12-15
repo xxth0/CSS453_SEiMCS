@@ -1,8 +1,0 @@
-PID: 33
-Name: Blake Schwartz
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Diabetes
-

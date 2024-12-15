@@ -1,8 +1,0 @@
-PID: 907
-Name: Ashley Larsen
-Gender: Male
-Type: IPD
-Allergies: Peanuts
-Region: Houston
-Diagnosis: Thyroid disorder
-

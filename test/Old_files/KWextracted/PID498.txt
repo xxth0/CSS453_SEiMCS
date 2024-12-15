@@ -1,8 +1,0 @@
-PID: 498
-Name: Ms. Natalie Carrillo
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: New York
-Diagnosis: Arthritis
-

@@ -1,8 +1,0 @@
-PID: 148
-Name: Abigail Bridges
-Gender: Female
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Arthritis
-

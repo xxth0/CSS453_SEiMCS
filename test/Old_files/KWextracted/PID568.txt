@@ -1,8 +1,0 @@
-PID: 568
-Name: Patrick Johnston
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Houston
-Diagnosis: Arthritis
-

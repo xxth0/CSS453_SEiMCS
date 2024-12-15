@@ -1,8 +1,0 @@
-PID: 514
-Name: Cynthia Brewer
-Gender: Other
-Type: OPD
-Allergies: Latex
-Region: Phoenix
-Diagnosis: Thyroid disorder
-

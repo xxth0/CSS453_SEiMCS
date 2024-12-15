@@ -1,8 +1,0 @@
-PID: 560
-Name: James Coleman
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Asthma
-

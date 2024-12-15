@@ -1,8 +1,0 @@
-PID: 550
-Name: Julia Spencer PhD
-Gender: Female
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 304
-Name: Diana Bell
-Gender: Other
-Type: IPD
-Allergies: nan
-Region: Los Angeles
-Diagnosis: Arthritis
-

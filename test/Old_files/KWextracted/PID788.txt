@@ -1,8 +1,0 @@
-PID: 788
-Name: Mitchell Hester
-Gender: Male
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Hypertension
-

@@ -1,8 +1,0 @@
-PID: 65
-Name: John Carlson
-Gender: Female
-Type: OPD
-Allergies: Peanuts
-Region: Los Angeles
-Diagnosis: Diabetes
-

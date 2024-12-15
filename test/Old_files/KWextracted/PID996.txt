@@ -1,8 +1,0 @@
-PID: 996
-Name: Katie Ramos
-Gender: Other
-Type: OPD
-Allergies: Iodine
-Region: Los Angeles
-Diagnosis: Arthritis
-

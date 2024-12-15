@@ -1,8 +1,0 @@
-PID: 599
-Name: Angela Clark
-Gender: Male
-Type: IPD
-Allergies: Penicillin
-Region: Chicago
-Diagnosis: Diabetes
-

@@ -1,8 +1,0 @@
-PID: 260
-Name: Nicholas Boyer
-Gender: Female
-Type: OPD
-Allergies: Penicillin
-Region: Houston
-Diagnosis: Arthritis
-

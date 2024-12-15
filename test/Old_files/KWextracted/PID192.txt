@@ -1,8 +1,0 @@
-PID: 192
-Name: Katelyn Kelly
-Gender: Female
-Type: OPD
-Allergies: nan
-Region: Chicago
-Diagnosis: Thyroid disorder
-

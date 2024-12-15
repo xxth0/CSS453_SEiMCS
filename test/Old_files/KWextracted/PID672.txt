@@ -1,8 +1,0 @@
-PID: 672
-Name: Brian White
-Gender: Other
-Type: OPD
-Allergies: Penicillin
-Region: Phoenix
-Diagnosis: Hypertension
-
