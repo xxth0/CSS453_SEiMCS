@@ -351,19 +351,19 @@ def search():
         return redirect("/")
     try:
         # Log the received encrypted query
-        query = request.form['query']
-        app.logger.debug(f"Received Query: {query}")
+        encrypted_query = request.form['query']
+        app.logger.debug(f"Received Encrypted Query: {encrypted_query}")
 
         # Attempt to decrypt the query
-        #decrypted_query = decrypt_data(encrypted_query)
-        #app.logger.debug(f"Decrypted Query: {decrypted_query}")
+        decrypted_query = decrypt_data(encrypted_query)
+        app.logger.debug(f"Decrypted Query: {decrypted_query}")
 
         # Split the decrypted query into individual inputs
-        inputs = query.split(",")
+        inputs = decrypted_query.split(",")
         inputs = [item.strip() for item in inputs]
 
-        # Validate inputs
-        if not query.strip():
+        # Validate decrypted inputs
+        if not decrypted_query.strip():
             flash("Search query cannot be empty. Please provide a valid keyword or PID.", "error")
             return render_template('main.html')
 
@@ -393,24 +393,11 @@ def search():
 
             # NOT Operation
             elif input_item.startswith('NOT:'):
-                not_keywords = input_item[4:].split(',')
-                not_keywords = [keyword.strip() for keyword   in not_keywords]
-
-                print("Processing NOT terms:")
-                not_results = set()
-                
-                for keyword in not_keywords:
-                    if '-' in keyword and all(part.isdigit() for part in keyword.split('-')):
-                        start, end = map(int, keyword.split('-'))
-                        print(f"  - Excluding PIDs in range: {start}-{end}")
-                        not_results |= set(range(start, end + 1))
-                    else:
-                        print(f"  - Excluding PIDs matching keyword: {keyword}")
-                        not_results |= set(search_auxiliary_with_bloom(app, keyword))
-                # Remove PIDs matching NOT keywords from the intersection
-                print("Removing PIDs matching NOT keywords")
-                intersection_pids = set(search_pids_in_range(1, 1000)) - not_results
-
+                not_keyword = input_item.replace('NOT:', '').strip()
+                excluded_pids = set(search_auxiliary_with_bloom(app, not_keyword))
+                if intersection_pids:
+                    intersection_pids -= excluded_pids
+                continue
 
             # OR Operation
             elif input_item.startswith('OR:'):
@@ -468,7 +455,7 @@ def search():
         # Render the results page
         return render_template(
             'results.html',
-            keywords=query,
+            keywords=decrypted_query,
             pid_results=pid_results,
             keyword_results=keyword_results,
             search_time=round(end_time - start_time, 4),

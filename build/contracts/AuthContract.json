@@ -3403,12 +3403,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x023232ca2255642eF3A181D92384aE0e6fbfadfF",
-      "transactionHash": "0xdddbea3b3c9418db8b1b0b571b1b2d7c9f16c84cce2e17489822ff3083b3d1b0"
+      "address": "0x9251592602FEa9B53E4dD7d1413a9dD33658CDfd",
+      "transactionHash": "0x4d5f14bb19d6799e3c6669cecee9dda2f3133adeaa5e0a7605e0688bfe7e4f9e"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-11-24T19:06:28.313Z",
+  "updatedAt": "2024-12-13T15:04:30.166Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

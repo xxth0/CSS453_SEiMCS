@@ -1,18 +1,26 @@
 from web3 import Web3
 import json
 import hashlib
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Fetch environment variables
+ganache_url = os.getenv("GANACHE_URL")
+contract_address = os.getenv("CONTRACT_ADDRESS")
+abi_file_path = os.getenv("ABI_FILE_PATH")
+private_key = os.getenv("PRIVATE_KEY")
+chain_id = int(os.getenv("CHAIN_ID", 1337))  # Default to 1337
+pid = os.getenv("PID")
+cid = os.getenv("CID")
 
 # Connect to Ganache blockchain
-ganache_url = "http://127.0.0.1:7545"
 web3 = Web3(Web3.HTTPProvider(ganache_url))
-
 if not web3.is_connected():
     raise Exception("Failed to connect to Ganache")
 print("Connected to Ganache")
-
-# Contract details
-contract_address = "0xA6c087338F11b08DD39c2765e89BEA083057167F"
-abi_file_path = r"C:\Users\WINDOWS\Documents\CSS453_SEiMCS\build\contracts\StoreCIDs.json"
 
 # Load ABI from the specified path
 with open(abi_file_path, "r") as abi_file:
@@ -20,8 +28,7 @@ with open(abi_file_path, "r") as abi_file:
 
 contract = web3.eth.contract(address=contract_address, abi=contract_abi)
 
-# Private key and account derived from it
-private_key = "0xeda64e1dae3e76d1060075d1a31a919f66dea29f2cf3af1bab60da49f61d248a"
+# Account derived from private key
 account = web3.eth.account.from_key(private_key).address
 print(f"Using account: {account}")
 
@@ -34,7 +41,7 @@ def send_transaction(hpid, cid):
     try:
         nonce = web3.eth.get_transaction_count(account)
         transaction = contract.functions.addMapping(hpid, cid).build_transaction({
-            "chainId": 1337,  # Ganache's default chain ID
+            "chainId": chain_id,
             "gas": 2000000,
             "gasPrice": web3.to_wei("20", "gwei"),
             "nonce": nonce
@@ -53,10 +60,7 @@ def send_transaction(hpid, cid):
         print(f"Error during transaction: {e}")
         raise
 
-# Upload PID 1000
-pid = "1000"
-cid = "QmTP86FfrtE1atwdEw7bH5k68piNVox4NtpsxdxzKkCh7p"
+# Upload PID and CID from .env
 hpid = hash_pid(pid)
-
 print(f"Uploading PID: {pid}, HPID: {hpid}, CID: {cid}")
 send_transaction(hpid, cid)

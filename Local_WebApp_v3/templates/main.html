@@ -110,10 +110,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script>
         // Pre-processed encryption key
-        const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
+        //const preProcessedKey = CryptoJS.enc.Base64.parse("dmwxbTBSV0ZISXRUV3VrTQ==");
 
         // Function to encrypt the query using AES
-        function encryptQuery(query, key) {
+        /*function encryptQuery(query, key) {
             const encrypted = CryptoJS.AES.encrypt(query, key, {
                 mode: CryptoJS.mode.ECB,
                 padding: CryptoJS.pad.Pkcs7
@@ -121,7 +121,7 @@
             console.log("Query to Encrypt:", query);
             console.log("Encrypted Base64 String:", encrypted.toString());
             return encrypted.toString();
-        }
+        }*/
 
         // Intercept form submission to encrypt the query
         function handleSearch(event) {
@@ -136,11 +136,11 @@
                 return;
             }
 
-            console.log("Query to Encrypt:", query);
-            const encryptedQuery = encryptQuery(query, preProcessedKey);
-            console.log("Encrypted Query (Base64):", encryptedQuery);
+            console.log("Query:", query);
+            //const encryptedQuery = encryptQuery(query, preProcessedKey);
+           // console.log("Encrypted Query (Base64):", encryptedQuery);
 
-            queryInput.value = encryptedQuery; // Replace the plaintext query with the encrypted version
+            queryInput.value = query; // Replace the plaintext query with the encrypted version
             document.getElementById("searchForm").submit(); // Submit the form
         }
     </script>
